@@ -1,0 +1,596 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "subj_anim = [\"писатель\", \"писатели\", \"пилот\", \"пилоты\", \"хирург\", \"хирурги\", \n",
+    "             \"фермер\", \"фермеры\", \"руководитель\", \"руководители\",\n",
+    "            \"покупатель\", \"покупатели\", \"командир\", \"командиры\",\n",
+    "            \"преподаватель\", \"преподаватели\", \"чиновник\", \"чиновники\",\n",
+    "            \"студент\", \"студенты\"]\n",
+    "predicate_intr_anim = [\"рассуждал\", \"рассуждали\", \"пел\", \"пели\", \"обедал\", \"обедали\",\n",
+    "            \"был высоким\", \"были высокими\", \"был пожилым\", \"были пожилыми\",\n",
+    "            \"был молодым\", \"были молодыми\", \"был низким\", \"были низкими\"]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "subj_inan = [\"фильм\", \"фильмы\", \"журнал\", \"журналы\", \"сериал\", \"сериалы\", \"чертеж\", \"чертежи\", \n",
+    "             \"учебник\", \"учебники\", \"рисунок\", \"рисунки\", \"роман\", \"романы\", \"рассказ\", \"рассказы\", \n",
+    "             \"спектакль\", \"спектакли\"]\n",
+    "predicate_intr_inan = [\"был хорошим\", \"были хорошими\", \"был плохим\", \"были плохими\", \n",
+    "                  \"был новым\", \"были новыми\", \"был популярным\", \"были популярными\", \n",
+    "                  \"был неизвестным\", \"были неизвестными\", \"увлекал\", \"увлекали\", \n",
+    "                  \"веселил\", \"веселили\"]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 71,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "obj_anim = [\"охранника\", \"охранников\", \"ассистента\", \"ассистентов\", \"архитектора\", \"архитекторов\", \n",
+    "            \"фигуриста\", \"фигуристов\", \"танцора\", \"танцоров\", \"министра\", \"министров\", \"водителя\", \"водителей\", \n",
+    "            \"секретаря\", \"секретарей\", \"офицера\", \"офицеров\", \"родителя\", \"родителей\"]\n",
+    "predicate_tr = [\"знал\", \"знали\", \"ненавидел\", \"ненавидели\", \"недолюбливал\", \"недолюбливали\", \n",
+    "                \"презирал\", \"презирали\", \"ценил\", \"ценили\"]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 100,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_tr_direct_anim = sentences_tr(subj_anim, predicate_tr, obj_anim, \"direct\",\n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_tr_direct_anim.txt', 'tr_direct_anim')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 101,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_tr_direct_inan = sentences_tr(subj_anim, predicate_tr, subj_inan, \"direct\",\n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_tr_direct_inan.txt', 'tr_direct_inan')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 102,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_tr_reverse_anim = sentences_tr(subj_anim, predicate_tr, obj_anim, \"reverse\",\n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_tr_reverse_anim.txt', 'tr_reverse_anim')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 103,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_tr_reverse_inan = sentences_tr(subj_anim, predicate_tr, subj_inan, \"reverse\",\n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_tr_reverse_inan.txt', 'tr_reverse_inan')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def sentences_intr_json (subj, predicate, file_name, label):\n",
+    "    sentences_intr_json = []\n",
+    "    sentence = ''\n",
+    "    i = 1\n",
+    "    score = 0\n",
+    "    for noun in subj:\n",
+    "        score +=1\n",
+    "        for verb in predicate:\n",
+    "            sentence = '{\"sentence\": \"' + noun + ' ' + verb + '\", \"idx\": ' + str(score%2) + ', \"label\": \"' + label + '\"}' \n",
+    "            sentences_intr_json.append(sentence)\n",
+    "            sentence = ''\n",
+    "            i += 1\n",
+    "            score +=1\n",
+    "    write_file = file_name \n",
+    "    with open(write_file, 'w') as fw:\n",
+    "        for sentence in sentences_intr_json:\n",
+    "            fw.write(sentence +'\\n')\n",
+    "    return sentences_intr_json"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_intr_json_anim = sentences_intr_json(subj_anim, predicate_intr_anim, \n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_intr_json_anim.jsonl', 'intr_anim')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_intr_json_inan = sentences_intr_json(subj_inan, predicate_intr_inan, \n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_intr_json_inan.jsonl', 'intr_inan')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 69,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def sentences_tr_json (subj, predicate, obj, order, file_name, label):\n",
+    "    sentences_tr_json = []\n",
+    "    sentence = ''\n",
+    "    i = 1\n",
+    "    score = 0\n",
+    "    for noun_1 in subj:\n",
+    "        score +=1\n",
+    "        for noun_2 in obj:\n",
+    "            for verb in predicate:\n",
+    "                if order == \"direct\":\n",
+    "                    sentence = '{\"sentence\": \"' + noun_1 + ' ' + verb + ' ' + noun_2 + '\", \"idx\": ' + str(score%2) + ', \"label\": \"' + label + '\"}'\n",
+    "                elif order == \"reverse\":\n",
+    "                    sentence = '{\"sentence\": \"' + noun_2 + ' ' + verb + ' ' + noun_1 + '\", \"idx\": ' + str(score%2) + ', \"label\": \"' + label + '\"}'\n",
+    "                sentences_tr_json.append(sentence)\n",
+    "                sentence = ''\n",
+    "                i += 1\n",
+    "                score +=1\n",
+    "    write_file = file_name \n",
+    "    with open(write_file, 'w') as fw:\n",
+    "        for sentence in sentences_tr_json:\n",
+    "            fw.write(sentence +'\\n')\n",
+    "    return sentences_tr_json"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 27,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_tr_direct_json_anim = sentences_tr_json(subj_anim, predicate_tr, obj_anim, \"direct\",\n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_tr_direct_json_anim.jsonl', 'tr_direct_anim')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 73,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_tr_direct_json_inan = sentences_tr_json(subj_anim, predicate_tr, subj_inan, \"direct\",\n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_tr_direct_json_inan.jsonl', 'tr_direct_inan')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 74,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_tr_reverse_json_anim = sentences_tr_json(subj_anim, predicate_tr, obj_anim, \"reverse\",\n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_tr_reverse_json_anim.jsonl', 'tr_reverse_anim')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 75,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_tr_reverse_json_inan = sentences_tr_json(subj_anim, predicate_tr, subj_inan, \"reverse\",\n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_tr_reverse_json_inan.jsonl', 'tr_reverse_inan')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "matrix_clause = [\"механик говорил\", \"механики говорили\", \"банкир говорил\", \"банкиры говорили\", \n",
+    "                 \"механик думал\", \"механики думали\", \"банкир думал\", \"банкиры думали\", \n",
+    "                 \"механик знал\", \"механики знали\", \"банкир знал\", \"банкиры знали\"]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def sentences_chto_json (subj, predicate, matrix, file_name, label):\n",
+    "    sentences_chto_json = []\n",
+    "    sentence = ''\n",
+    "    i = 1\n",
+    "    score = 0\n",
+    "    for clause in matrix:\n",
+    "        for noun in subj:\n",
+    "            score +=1\n",
+    "            for verb in predicate:\n",
+    "                sentence = '{\"sentence\": \"' + clause + ' что ' + noun + ' ' + verb + '\", \"idx\": ' + str(score%2) + ', \"label\": \"' + label + '\"}' \n",
+    "                sentences_chto_json.append(sentence)\n",
+    "                sentence = ''\n",
+    "                i += 1\n",
+    "                score +=1\n",
+    "    write_file = file_name \n",
+    "    with open(write_file, 'w') as fw:\n",
+    "        for sentence in sentences_chto_json:\n",
+    "            fw.write(sentence +'\\n')\n",
+    "    return sentences_chto_json"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 39,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_chto_json_anim = sentences_chto_json(subj_anim, predicate_intr_anim, matrix_clause,\n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_chto_json_anim.jsonl', 'chto_anim')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_chto_json_inan = sentences_chto_json(subj_inan, predicate_intr_inan, matrix_clause,\n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_chto_json_inan.jsonl', 'chto_inan')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 58,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "pp_anim = [\"рядом с охранником\", \"рядом с охранниками\", \"рядом с ассистентом\", \"рядом с ассистентами\",\n",
+    "          \"рядом с архитектором\", \"рядом с архитекторами\", \"рядом с фигуристом\", \"рядом с фигуристами\",\n",
+    "          \"рядом с танцором\", \"рядом с танцорами\", \"рядом с министром\", \"рядом с министрами\",\n",
+    "          \"рядом с водителем\", \"рядом с водителями\", \"рядом с секретарем\", \"рядом с секретарями\",\n",
+    "          \"рядом с офицером\", \"рядом с офицерами\", \"рядом с родителем\", \"рядом с родителями\",\n",
+    "          \"перед охранником\", \"перед охранниками\", \"перед ассистентом\", \"перед ассистентами\",\n",
+    "          \"перед архитектором\", \"перед архитекторами\", \"перед фигуристом\", \"перед фигуристами\",\n",
+    "          \"перед танцором\", \"перед танцорами\", \"перед министром\", \"перед министрами\",\n",
+    "          \"перед водителем\", \"перед водителями\", \"перед секретарем\", \"перед секретарями\",\n",
+    "          \"перед офицером\", \"перед офицерами\", \"перед родителем\", \"перед родителями\",]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "pp_inan = [\"для охранника\", \"для охранников\", \"для ассистента\", \"для ассистентов\", \"для архитектора\", \"для архитекторов\",\n",
+    "          \"для фигуриста\", \"для фигуристов\", \"для танцора\", \"для танцоров\", \"для министра\", \"для министров\", \"для водителя\", \"для водителей\",\n",
+    "          \"для секретаря\", \"для секретарей\", \"для офицера\", \"для офицеров\", \"для родителя\", \"для родителей\"]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def sentences_pp_json (subj, predicate, pp, file_name, label):\n",
+    "    sentences_pp_json = []\n",
+    "    sentence = ''\n",
+    "    i = 1\n",
+    "    score = 0\n",
+    "    for phrase in pp:\n",
+    "        for noun in subj:\n",
+    "            score +=1\n",
+    "            for verb in predicate:\n",
+    "                sentence = '{\"sentence\": \"' + noun + ' ' + phrase + ' ' +verb + '\", \"idx\": ' + str(score%2) + ', \"label\": \"' + label + '\"}' \n",
+    "                sentences_pp_json.append(sentence)\n",
+    "                sentence = ''\n",
+    "                i += 1\n",
+    "                score +=1\n",
+    "    write_file = file_name \n",
+    "    with open(write_file, 'w') as fw:\n",
+    "        for sentence in sentences_pp_json:\n",
+    "            fw.write(sentence +'\\n')\n",
+    "    return sentences_pp_json"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 62,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_pp_json_anim = sentences_pp_json(subj_anim, predicate_intr_anim, pp_anim,\n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_pp_json_anim.jsonl', 'pp_anim')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_pp_json_inan = sentences_pp_json(subj_inan, predicate_intr_inan, pp_inan,\n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_pp_json_inan.jsonl', 'pp_inan')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 36,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "subj_rel = [\"писатель который знал\", \"писатели которые знали\", \n",
+    "            \"писатель который ненавидел\", \"писатели которые ненавидели\",\n",
+    "            \"писатель который недолюбливал\", \"писатели которые недолюбливали\", \n",
+    "            \"писатель который презирал\", \"писатели которые презирали\",\n",
+    "            \"писатель который ценил\", \"писатели которые ценили\",\n",
+    "            \"пилот который знал\", \"пилоты которые знали\", \n",
+    "            \"пилот который ненавидел\", \"пилоты которые ненавидели\",\n",
+    "            \"пилот который недолюбливал\", \"пилоты которые недолюбливали\", \n",
+    "            \"пилот который презирал\", \"пилоты которые презирали\",\n",
+    "            \"пилот который ценил\", \"пилоты которые ценили\",\n",
+    "            \"хирург который знал\", \"хирурги которые знали\", \n",
+    "            \"хирург который ненавидел\", \"хирурги которые ненавидели\",\n",
+    "            \"хирург который недолюбливал\", \"хирурги которые недолюбливали\", \n",
+    "            \"хирург который презирал\", \"хирурги которые презирали\",\n",
+    "            \"хирург который ценил\", \"хирурги которые ценили\",\n",
+    "            \"фермер который знал\", \"фермеры которые знали\", \n",
+    "            \"фермер который ненавидел\", \"фермеры которые ненавидели\",\n",
+    "            \"фермер который недолюбливал\", \"фермеры которые недолюбливали\", \n",
+    "            \"фермер который презирал\", \"фермеры которые презирали\",\n",
+    "            \"фермер который ценил\", \"фермеры которые ценили\",\n",
+    "            \"руководитель который знал\", \"руководители которые знали\", \n",
+    "            \"руководитель который ненавидел\", \"руководители которые ненавидели\",\n",
+    "            \"руководитель который недолюбливал\", \"руководители которые недолюбливали\", \n",
+    "            \"руководитель который презирал\", \"руководители которые презирали\",\n",
+    "            \"руководитель который ценил\", \"руководители которые ценили\",\n",
+    "            \"покупатель который знал\", \"покупатели которые знали\", \n",
+    "            \"покупатель который ненавидел\", \"покупатели которые ненавидели\",\n",
+    "            \"покупатель который недолюбливал\", \"покупатели которые недолюбливали\", \n",
+    "            \"покупатель который презирал\", \"покупатели которые презирали\",\n",
+    "            \"покупатель который ценил\", \"покупатели которые ценили\",\n",
+    "            \"командир который знал\", \"командиры которые знали\", \n",
+    "            \"командир который ненавидел\", \"командиры которые ненавидели\",\n",
+    "            \"командир который недолюбливал\", \"командиры которые недолюбливали\", \n",
+    "            \"командир который презирал\", \"командиры которые презирали\",\n",
+    "            \"командир который ценил\", \"командиры которые ценили\",\n",
+    "            \"преподаватель который знал\", \"преподаватели которые знали\", \n",
+    "            \"преподаватель который ненавидел\", \"преподаватели которые ненавидели\",\n",
+    "            \"преподаватель который недолюбливал\", \"преподаватели которые недолюбливали\", \n",
+    "            \"преподаватель который презирал\", \"преподаватели которые презирали\",\n",
+    "            \"преподаватель который ценил\", \"преподаватели которые ценили\",\n",
+    "            \"чиновник который знал\", \"чиновники которые знали\", \n",
+    "            \"чиновник который ненавидел\", \"чиновники которые ненавидели\",\n",
+    "            \"чиновник который недолюбливал\", \"чиновники которые недолюбливали\", \n",
+    "            \"чиновник который презирал\", \"чиновники которые презирали\",\n",
+    "            \"чиновник который ценил\", \"чиновники которые ценили\",\n",
+    "            \"студент который знал\", \"студенты которые знали\", \n",
+    "            \"студент который ненавидел\", \"студенты которые ненавидели\",\n",
+    "            \"студент который недолюбливал\", \"студенты которые недолюбливали\", \n",
+    "            \"студент который презирал\", \"студенты которые презирали\",\n",
+    "            \"студент который ценил\", \"студенты которые ценили\",]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 40,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def sentences_subj_rel_json (subj, predicate, rel, file_name, label):\n",
+    "    sentences_subj_rel_json = []\n",
+    "    sentence = ''\n",
+    "    i = 1\n",
+    "    score = 0\n",
+    "    for obj in rel:\n",
+    "        for noun in subj:\n",
+    "            score +=1\n",
+    "            for verb in predicate:\n",
+    "                sentence = '{\"sentence\": \"' + noun + ' ' + obj + ' ' +verb + '\", \"idx\": ' + str(score%2) + ', \"label\": \"' + label + '\"}' \n",
+    "                sentences_subj_rel_json.append(sentence)\n",
+    "                sentence = ''\n",
+    "                i += 1\n",
+    "                score +=1\n",
+    "    write_file = file_name \n",
+    "    with open(write_file, 'w') as fw:\n",
+    "        for sentence in sentences_subj_rel_json:\n",
+    "            fw.write(sentence +'\\n')\n",
+    "    return sentences_subj_rel_json"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 76,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_subj_rel_json_anim = sentences_subj_rel_json(subj_rel, predicate_intr_anim, pp_inan,\n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_subj_rel_json_anim.jsonl', 'subj_rel_anim')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 77,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_subj_rel_json_inan = sentences_subj_rel_json(subj_rel, predicate_intr_anim, subj_inan,\n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_subj_rel_json_inan.jsonl', 'subj_rel_inan')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "obj_rel_anim = [\"писатель которого\", \"писатели которых\", \n",
+    "            \"пилот которого\", \"пилоты которых\", \n",
+    "            \"хирург которого\", \"хирурги которых\", \n",
+    "            \"фермер которого\", \"фермеры которых\", \n",
+    "            \"руководитель которого\", \"руководители которых\", \n",
+    "            \"покупатель которого\", \"покупатели которых\", \n",
+    "            \"командир которого\", \"командиры которых\", \n",
+    "            \"преподаватель которого\", \"преподаватели которых\", \n",
+    "            \"чиновник которого\", \"чиновники которых\", \n",
+    "            \"студент которого\", \"студенты которых\"]\n",
+    "obj_rel_inan = [\"фильм который\", \"фильмы которые\",\n",
+    "               \"журнал который\", \"журналы которые\", \n",
+    "                \"сериал который\", \"сериалы которые\", \n",
+    "                \"чертеж который\", \"чертежи которые\", \n",
+    "                \"учебник который\", \"учебники которые\", \n",
+    "                \"рисунок который\", \"рисунки которые\", \n",
+    "                \"роман который\", \"романы которые\", \n",
+    "                \"рассказ который\", \"рассказы которые\", \n",
+    "                \"спектакль который\", \"спектакли которые\"]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sent_rel = [\"знал охранник\", \"знали охранники\",\n",
+    "           \"знал ассистент\", \"знали ассистенты\",\n",
+    "           \"знал архитектор\", \"знали архитекторы\",\n",
+    "           \"знал фигурист\", \"знали фигуристы\",\n",
+    "           \"знал танцор\", \"знали танцоры\",\n",
+    "           \"знал министр\", \"знали министры\",\n",
+    "           \"знал водитель\", \"знали водители\",\n",
+    "           \"знал секретарь\", \"знали секретари\",\n",
+    "           \"знал офицер\", \"знали офицеры\",\n",
+    "           \"знал родитель\", \"знали родители\",\n",
+    "           \"ненавидел охранник\", \"ненавидели охранники\",\n",
+    "           \"ненавидел ассистент\", \"ненавидели ассистенты\",\n",
+    "           \"ненавидел архитектор\", \"ненавидели архитекторы\",\n",
+    "           \"ненавидел фигурист\", \"ненавидели фигуристы\",\n",
+    "           \"ненавидел танцор\", \"ненавидели танцоры\",\n",
+    "           \"ненавидел министр\", \"ненавидели министры\",\n",
+    "           \"ненавидел водитель\", \"ненавидели водители\",\n",
+    "           \"ненавидел секретарь\", \"ненавидели секретари\",\n",
+    "           \"ненавидел офицер\", \"ненавидели офицеры\",\n",
+    "           \"ненавидел родитель\", \"ненавидели родители\",\n",
+    "           \"недолюбливал охранник\", \"недолюбливали охранники\",\n",
+    "           \"недолюбливал ассистент\", \"недолюбливали ассистенты\",\n",
+    "           \"недолюбливал архитектор\", \"недолюбливали архитекторы\",\n",
+    "           \"недолюбливал фигурист\", \"недолюбливали фигуристы\",\n",
+    "           \"недолюбливал танцор\", \"недолюбливали танцоры\",\n",
+    "           \"недолюбливал министр\", \"недолюбливали министры\",\n",
+    "           \"недолюбливал водитель\", \"недолюбливали водители\",\n",
+    "           \"недолюбливал секретарь\", \"недолюбливали секретари\",\n",
+    "           \"недолюбливал офицер\", \"недолюбливали офицеры\",\n",
+    "           \"недолюбливал родитель\", \"недолюбливали родители\",\n",
+    "           \"презирал охранник\", \"презирали охранники\",\n",
+    "           \"презирал ассистент\", \"презирали ассистенты\",\n",
+    "           \"презирал архитектор\", \"презирали архитекторы\",\n",
+    "           \"презирал фигурист\", \"презирали фигуристы\",\n",
+    "           \"презирал танцор\", \"презирали танцоры\",\n",
+    "           \"презирал министр\", \"презирали министры\",\n",
+    "           \"презирал водитель\", \"презирали водители\",\n",
+    "           \"презирал секретарь\", \"презирали секретари\",\n",
+    "           \"презирал офицер\", \"презирали офицеры\",\n",
+    "           \"презирал родитель\", \"презирали родители\",\n",
+    "            \"ценил охранник\", \"ценили охранники\",\n",
+    "           \"ценил ассистент\", \"ценили ассистенты\",\n",
+    "           \"ценил архитектор\", \"ценили архитекторы\",\n",
+    "           \"ценил фигурист\", \"ценили фигуристы\",\n",
+    "           \"ценил танцор\", \"ценили танцоры\",\n",
+    "           \"ценил министр\", \"ценили министры\",\n",
+    "           \"ценил водитель\", \"ценили водители\",\n",
+    "           \"ценил секретарь\", \"ценили секретари\",\n",
+    "           \"ценил офицер\", \"ценили офицеры\",\n",
+    "           \"ценил родитель\", \"ценили родители\",]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 16,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def sentences_obj_rel_json (subj, predicate, rel, file_name, label):\n",
+    "    sentences_obj_rel_json = []\n",
+    "    sentence = ''\n",
+    "    i = 1\n",
+    "    score = 0\n",
+    "    for obj in rel:\n",
+    "        for noun in subj:\n",
+    "            score +=1\n",
+    "            for verb in predicate:\n",
+    "                sentence = '{\"sentence\": \"' + noun + ' ' + obj + ' ' +verb + '\", \"idx\": ' + str(score%2) + ', \"label\": \"' + label + '\"}' \n",
+    "                sentences_obj_rel_json.append(sentence)\n",
+    "                sentence = ''\n",
+    "                i += 1\n",
+    "                score +=1\n",
+    "    write_file = file_name \n",
+    "    with open(write_file, 'w') as fw:\n",
+    "        for sentence in sentences_obj_rel_json:\n",
+    "            fw.write(sentence +'\\n')\n",
+    "    return sentences_obj_rel_json"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 78,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_obj_rel_json_anim = sentences_obj_rel_json(obj_rel_anim, predicate_intr_anim, sent_rel,\n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_obj_rel_json_anim.jsonl', 'obj_rel_anim')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "sentences_obj_rel_json_inan = sentences_obj_rel_json(obj_rel_inan, predicate_intr_inan, sent_rel,\n",
+    "                       '/Applications/Нейронные сети/Данные/sentences_obj_rel_json_inan.jsonl', 'obj_rel_inan')"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.3"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
