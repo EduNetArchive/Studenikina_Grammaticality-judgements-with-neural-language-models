@@ -1,0 +1,42 @@
+{"sentence": "командир вблизи водителей был низким", "idx": 1, "label": "pp_anim"}
+{"sentence": "водителей ценил командир", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "командиры которых ценили министры был низким", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "преподаватель вблизи водителей был низким", "idx": 1, "label": "pp_anim"}
+{"sentence": "банкир думал что командиры размышляли", "idx": 1, "label": "chto_anim"}
+{"sentence": "рисунки без водителей расстраивал", "idx": 0, "label": "pp_inan_train"}
+{"sentence": "рисунки которые ценили министры были плохими", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "командиры презирал романы", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "преподаватель ценил рисунки", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "рисунки расстраивали", "idx": 1, "label": "intr_inan"}
+{"sentence": "преподаватель был низким", "idx": 1, "label": "intr_anim"}
+{"sentence": "преподаватели вблизи министров размышлял", "idx": 0, "label": "pp_anim"}
+{"sentence": "преподаватели которые ценили водителя были низкими", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "рисунок без водителей расстраивал", "idx": 1, "label": "pp_inan_train"}
+{"sentence": "командиры презирал роман", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "преподаватель который ценил водителя размышляли", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "командир презирали министра", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "банкир думал что преподаватель размышляли", "idx": 0, "label": "chto_anim"}
+{"sentence": "рисунок без водителей были плохими", "idx": 0, "label": "pp_inan_train"}
+{"sentence": "командир которого ценили министры был низким", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "командир презирал водителей", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "романы презирал командиры", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "преподаватель которого презирал министр был низким", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "механики думали что командиры был низким", "idx": 0, "label": "chto_anim"}
+{"sentence": "роман расстраивали", "idx": 0, "label": "intr_inan"}
+{"sentence": "преподаватели которые презирали роман размышлял", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "министров презирал командиры", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "механики думали что роман был плохим", "idx": 1, "label": "chto_inan"}
+{"sentence": "роман ценили командир", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "рисунок ценили командиры", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "рисунок расстраивали", "idx": 0, "label": "intr_inan"}
+{"sentence": "командиры был низким", "idx": 0, "label": "intr_anim"}
+{"sentence": "механик думал что романы расстраивал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики думали что рисунки расстраивали", "idx": 1, "label": "chto_inan"}
+{"sentence": "преподаватель который презирал рисунок был низким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который ценил рисунок размышлял", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир презирали министров", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "командир который ценил министров были низкими", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "рисунок который презирал министр расстраивал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который презирал министр расстраивали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "водителя ценил преподаватель", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "преподаватели был низким", "idx": 0, "label": "intr_anim"}
