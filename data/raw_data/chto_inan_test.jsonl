@@ -1,0 +1,64 @@
+{"sentence": "механик знал что рассказ был новым", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик знал что рассказ были новыми", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик знал что рассказ веселил", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик знал что рассказ веселили", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик знал что рассказы был новым", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик знал что рассказы были новыми", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик знал что рассказы веселил", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик знал что рассказы веселили", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик знал что спектакль был новым", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик знал что спектакль были новыми", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик знал что спектакль веселил", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик знал что спектакль веселили", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик знал что спектакли был новым", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик знал что спектакли были новыми", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик знал что спектакли веселил", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик знал что спектакли веселили", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики знали что рассказ был новым", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики знали что рассказ были новыми", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики знали что рассказ веселил", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики знали что рассказ веселили", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики знали что рассказы был новым", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики знали что рассказы были новыми", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики знали что рассказы веселил", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики знали что рассказы веселили", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики знали что спектакль был новым", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики знали что спектакль были новыми", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики знали что спектакль веселил", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики знали что спектакль веселили", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики знали что спектакли был новым", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики знали что спектакли были новыми", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики знали что спектакли веселил", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики знали что спектакли веселили", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир знал что рассказ был новым", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир знал что рассказ были новыми", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир знал что рассказ веселил", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир знал что рассказ веселили", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир знал что рассказы был новым", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир знал что рассказы были новыми", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир знал что рассказы веселил", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир знал что рассказы веселили", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир знал что спектакль был новым", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир знал что спектакль были новыми", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир знал что спектакль веселил", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир знал что спектакль веселили", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир знал что спектакли был новым", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир знал что спектакли были новыми", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир знал что спектакли веселил", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир знал что спектакли веселили", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры знали что рассказ был новым", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры знали что рассказ были новыми", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры знали что рассказ веселил", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры знали что рассказ веселили", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры знали что рассказы был новым", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры знали что рассказы были новыми", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры знали что рассказы веселил", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры знали что рассказы веселили", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры знали что спектакль был новым", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры знали что спектакль были новыми", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры знали что спектакль веселил", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры знали что спектакль веселили", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры знали что спектакли был новым", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры знали что спектакли были новыми", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры знали что спектакли веселил", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры знали что спектакли веселили", "idx": 1, "label": "chto_inan"}

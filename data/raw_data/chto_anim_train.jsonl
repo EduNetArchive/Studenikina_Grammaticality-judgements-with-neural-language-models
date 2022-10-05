@@ -1,0 +1,640 @@
+{"sentence": "механик говорил что писатель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что писатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что писатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что писатель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что писатель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что писатель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что писатель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что писатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что писатели рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что писатели рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что писатели пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что писатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что писатели был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что писатели были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что писатели был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что писатели были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что пилот рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что пилот рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что пилот пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что пилот пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что пилот был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что пилот были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что пилот был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что пилот были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что пилоты рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что пилоты рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что пилоты пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что пилоты пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что пилоты был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что пилоты были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что пилоты был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что пилоты были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что фермер рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что фермер рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что фермер пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что фермер пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что фермер был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что фермер были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что фермер был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что фермер были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что фермеры рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что фермеры рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что фермеры пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что фермеры пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что фермеры был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что фермеры были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что фермеры был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что фермеры были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что руководитель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что руководитель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что руководитель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что руководитель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что руководитель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что руководитель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что руководитель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что руководитель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что руководители рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что руководители рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что руководители пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что руководители пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что руководители был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что руководители были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что руководители был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что руководители были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что покупатель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что покупатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что покупатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что покупатель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что покупатель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что покупатель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что покупатель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что покупатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что покупатели рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что покупатели рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что покупатели пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что покупатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что покупатели был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что покупатели были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик говорил что покупатели был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик говорил что покупатели были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что писатель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что писатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что писатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что писатель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что писатель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что писатель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что писатель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что писатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что писатели рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что писатели рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что писатели пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что писатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что писатели был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что писатели были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что писатели был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что писатели были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что пилот рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что пилот рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что пилот пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что пилот пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что пилот был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что пилот были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что пилот был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что пилот были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что пилоты рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что пилоты рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что пилоты пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что пилоты пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что пилоты был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что пилоты были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что пилоты был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что пилоты были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что фермер рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что фермер рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что фермер пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что фермер пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что фермер был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что фермер были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что фермер был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что фермер были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что фермеры рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что фермеры рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что фермеры пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что фермеры пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что фермеры был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что фермеры были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что фермеры был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что фермеры были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что руководитель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что руководитель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что руководитель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что руководитель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что руководитель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что руководитель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что руководитель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что руководитель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что руководители рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что руководители рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что руководители пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что руководители пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что руководители был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что руководители были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что руководители был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что руководители были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что покупатель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что покупатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что покупатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что покупатель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что покупатель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что покупатель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что покупатель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что покупатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что покупатели рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что покупатели рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что покупатели пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что покупатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что покупатели был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что покупатели были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики говорили что покупатели был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики говорили что покупатели были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что писатель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что писатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что писатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что писатель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что писатель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что писатель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что писатель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что писатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что писатели рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что писатели рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что писатели пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что писатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что писатели был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что писатели были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что писатели был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что писатели были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что пилот рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что пилот рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что пилот пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что пилот пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что пилот был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что пилот были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что пилот был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что пилот были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что пилоты рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что пилоты рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что пилоты пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что пилоты пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что пилоты был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что пилоты были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что пилоты был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что пилоты были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что фермер рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что фермер рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что фермер пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что фермер пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что фермер был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что фермер были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что фермер был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что фермер были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что фермеры рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что фермеры рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что фермеры пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что фермеры пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что фермеры был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что фермеры были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что фермеры был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что фермеры были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что руководитель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что руководитель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что руководитель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что руководитель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что руководитель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что руководитель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что руководитель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что руководитель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что руководители рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что руководители рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что руководители пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что руководители пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что руководители был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что руководители были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что руководители был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что руководители были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что покупатель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что покупатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что покупатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что покупатель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что покупатель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что покупатель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что покупатель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что покупатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что покупатели рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что покупатели рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что покупатели пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что покупатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что покупатели был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что покупатели были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир говорил что покупатели был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир говорил что покупатели были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что писатель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что писатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что писатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что писатель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что писатель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что писатель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что писатель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что писатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что писатели рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что писатели рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что писатели пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что писатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что писатели был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что писатели были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что писатели был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что писатели были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что пилот рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что пилот рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что пилот пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что пилот пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что пилот был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что пилот были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что пилот был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что пилот были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что пилоты рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что пилоты рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что пилоты пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что пилоты пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что пилоты был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что пилоты были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что пилоты был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что пилоты были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что фермер рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что фермер рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что фермер пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что фермер пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что фермер был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что фермер были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что фермер был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что фермер были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что фермеры рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что фермеры рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что фермеры пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что фермеры пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что фермеры был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что фермеры были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что фермеры был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что фермеры были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что руководитель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что руководитель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что руководитель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что руководитель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что руководитель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что руководитель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что руководитель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что руководитель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что руководители рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что руководители рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что руководители пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что руководители пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что руководители был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что руководители были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что руководители был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что руководители были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что покупатель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что покупатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что покупатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что покупатель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что покупатель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что покупатель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что покупатель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что покупатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что покупатели рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что покупатели рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что покупатели пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что покупатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что покупатели был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что покупатели были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры говорили что покупатели был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры говорили что покупатели были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что писатель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что писатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что писатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что писатель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что писатель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что писатель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что писатель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что писатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что писатели рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что писатели рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что писатели пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что писатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что писатели был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что писатели были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что писатели был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что писатели были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что пилот рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что пилот рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что пилот пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что пилот пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что пилот был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что пилот были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что пилот был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что пилот были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что пилоты рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что пилоты рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что пилоты пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что пилоты пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что пилоты был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что пилоты были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что пилоты был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что пилоты были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что фермер рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что фермер рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что фермер пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что фермер пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что фермер был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что фермер были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что фермер был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что фермер были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что фермеры рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что фермеры рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что фермеры пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что фермеры пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что фермеры был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что фермеры были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что фермеры был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что фермеры были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что руководитель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что руководитель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что руководитель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что руководитель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что руководитель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что руководитель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что руководитель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что руководитель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что руководители рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что руководители рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что руководители пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что руководители пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что руководители был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что руководители были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что руководители был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что руководители были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что покупатель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что покупатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что покупатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что покупатель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что покупатель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что покупатель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что покупатель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что покупатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что покупатели рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что покупатели рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что покупатели пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что покупатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что покупатели был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что покупатели были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механик предполагал что покупатели был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик предполагал что покупатели были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что писатель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что писатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что писатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что писатель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что писатель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что писатель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что писатель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что писатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что писатели рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что писатели рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что писатели пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что писатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что писатели был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что писатели были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что писатели был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что писатели были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что пилот рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что пилот рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что пилот пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что пилот пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что пилот был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что пилот были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что пилот был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что пилот были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что пилоты рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что пилоты рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что пилоты пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что пилоты пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что пилоты был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что пилоты были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что пилоты был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что пилоты были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что фермер рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что фермер рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что фермер пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что фермер пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что фермер был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что фермер были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что фермер был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что фермер были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что фермеры рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что фермеры рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что фермеры пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что фермеры пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что фермеры был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что фермеры были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что фермеры был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что фермеры были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что руководитель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что руководитель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что руководитель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что руководитель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что руководитель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что руководитель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что руководитель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что руководитель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что руководители рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что руководители рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что руководители пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что руководители пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что руководители был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что руководители были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что руководители был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что руководители были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что покупатель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что покупатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что покупатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что покупатель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что покупатель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что покупатель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что покупатель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что покупатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что покупатели рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что покупатели рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что покупатели пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что покупатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что покупатели был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что покупатели были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "механики предполагали что покупатели был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики предполагали что покупатели были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что писатель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что писатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что писатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что писатель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что писатель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что писатель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что писатель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что писатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что писатели рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что писатели рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что писатели пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что писатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что писатели был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что писатели были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что писатели был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что писатели были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что пилот рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что пилот рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что пилот пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что пилот пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что пилот был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что пилот были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что пилот был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что пилот были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что пилоты рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что пилоты рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что пилоты пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что пилоты пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что пилоты был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что пилоты были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что пилоты был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что пилоты были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что фермер рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что фермер рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что фермер пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что фермер пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что фермер был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что фермер были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что фермер был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что фермер были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что фермеры рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что фермеры рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что фермеры пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что фермеры пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что фермеры был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что фермеры были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что фермеры был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что фермеры были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что руководитель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что руководитель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что руководитель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что руководитель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что руководитель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что руководитель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что руководитель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что руководитель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что руководители рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что руководители рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что руководители пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что руководители пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что руководители был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что руководители были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что руководители был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что руководители были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что покупатель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что покупатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что покупатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что покупатель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что покупатель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что покупатель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что покупатель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что покупатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что покупатели рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что покупатели рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что покупатели пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что покупатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что покупатели был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что покупатели были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир предполагал что покупатели был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир предполагал что покупатели были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что писатель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что писатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что писатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что писатель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что писатель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что писатель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что писатель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что писатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что писатели рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что писатели рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что писатели пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что писатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что писатели был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что писатели были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что писатели был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что писатели были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что пилот рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что пилот рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что пилот пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что пилот пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что пилот был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что пилот были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что пилот был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что пилот были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что пилоты рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что пилоты рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что пилоты пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что пилоты пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что пилоты был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что пилоты были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что пилоты был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что пилоты были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что фермер рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что фермер рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что фермер пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что фермер пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что фермер был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что фермер были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что фермер был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что фермер были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что фермеры рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что фермеры рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что фермеры пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что фермеры пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что фермеры был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что фермеры были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что фермеры был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что фермеры были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что руководитель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что руководитель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что руководитель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что руководитель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что руководитель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что руководитель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что руководитель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что руководитель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что руководители рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что руководители рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что руководители пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что руководители пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что руководители был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что руководители были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что руководители был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что руководители были пожилыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что покупатель рассуждал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что покупатель рассуждали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что покупатель пел", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что покупатель пели", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что покупатель был высоким", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что покупатель были высокими", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что покупатель был пожилым", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что покупатель были пожилыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что покупатели рассуждал", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что покупатели рассуждали", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что покупатели пел", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что покупатели пели", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что покупатели был высоким", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что покупатели были высокими", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что покупатели был пожилым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкиры предполагали что покупатели были пожилыми", "idx": 1, "label": "chto_anim"}

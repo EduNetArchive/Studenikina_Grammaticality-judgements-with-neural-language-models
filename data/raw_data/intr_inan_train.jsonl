@@ -1,0 +1,80 @@
+{"sentence": "фильм восхищал", "idx": 1, "label": "intr_inan"}
+{"sentence": "фильм восхищали", "idx": 0, "label": "intr_inan"}
+{"sentence": "фильм увлекал", "idx": 1, "label": "intr_inan"}
+{"sentence": "фильм увлекали", "idx": 0, "label": "intr_inan"}
+{"sentence": "фильм был хорошим", "idx": 1, "label": "intr_inan"}
+{"sentence": "фильм были хорошими", "idx": 0, "label": "intr_inan"}
+{"sentence": "фильм был известным", "idx": 1, "label": "intr_inan"}
+{"sentence": "фильм были известными", "idx": 0, "label": "intr_inan"}
+{"sentence": "фильмы восхищал", "idx": 0, "label": "intr_inan"}
+{"sentence": "фильмы восхищали", "idx": 1, "label": "intr_inan"}
+{"sentence": "фильмы увлекал", "idx": 0, "label": "intr_inan"}
+{"sentence": "фильмы увлекали", "idx": 1, "label": "intr_inan"}
+{"sentence": "фильмы был хорошим", "idx": 0, "label": "intr_inan"}
+{"sentence": "фильмы были хорошими", "idx": 1, "label": "intr_inan"}
+{"sentence": "фильмы был известным", "idx": 0, "label": "intr_inan"}
+{"sentence": "фильмы были известными", "idx": 1, "label": "intr_inan"}
+{"sentence": "журнал восхищал", "idx": 1, "label": "intr_inan"}
+{"sentence": "журнал восхищали", "idx": 0, "label": "intr_inan"}
+{"sentence": "журнал увлекал", "idx": 1, "label": "intr_inan"}
+{"sentence": "журнал увлекали", "idx": 0, "label": "intr_inan"}
+{"sentence": "журнал был хорошим", "idx": 1, "label": "intr_inan"}
+{"sentence": "журнал были хорошими", "idx": 0, "label": "intr_inan"}
+{"sentence": "журнал был известным", "idx": 1, "label": "intr_inan"}
+{"sentence": "журнал были известными", "idx": 0, "label": "intr_inan"}
+{"sentence": "журналы восхищал", "idx": 0, "label": "intr_inan"}
+{"sentence": "журналы восхищали", "idx": 1, "label": "intr_inan"}
+{"sentence": "журналы увлекал", "idx": 0, "label": "intr_inan"}
+{"sentence": "журналы увлекали", "idx": 1, "label": "intr_inan"}
+{"sentence": "журналы был хорошим", "idx": 0, "label": "intr_inan"}
+{"sentence": "журналы были хорошими", "idx": 1, "label": "intr_inan"}
+{"sentence": "журналы был известным", "idx": 0, "label": "intr_inan"}
+{"sentence": "журналы были известными", "idx": 1, "label": "intr_inan"}
+{"sentence": "сериал восхищал", "idx": 1, "label": "intr_inan"}
+{"sentence": "сериал восхищали", "idx": 0, "label": "intr_inan"}
+{"sentence": "сериал увлекал", "idx": 1, "label": "intr_inan"}
+{"sentence": "сериал увлекали", "idx": 0, "label": "intr_inan"}
+{"sentence": "сериал был хорошим", "idx": 1, "label": "intr_inan"}
+{"sentence": "сериал были хорошими", "idx": 0, "label": "intr_inan"}
+{"sentence": "сериал был известным", "idx": 1, "label": "intr_inan"}
+{"sentence": "сериал были известными", "idx": 0, "label": "intr_inan"}
+{"sentence": "сериалы восхищал", "idx": 0, "label": "intr_inan"}
+{"sentence": "сериалы восхищали", "idx": 1, "label": "intr_inan"}
+{"sentence": "сериалы увлекал", "idx": 0, "label": "intr_inan"}
+{"sentence": "сериалы увлекали", "idx": 1, "label": "intr_inan"}
+{"sentence": "сериалы был хорошим", "idx": 0, "label": "intr_inan"}
+{"sentence": "сериалы были хорошими", "idx": 1, "label": "intr_inan"}
+{"sentence": "сериалы был известным", "idx": 0, "label": "intr_inan"}
+{"sentence": "сериалы были известными", "idx": 1, "label": "intr_inan"}
+{"sentence": "чертеж восхищал", "idx": 1, "label": "intr_inan"}
+{"sentence": "чертеж восхищали", "idx": 0, "label": "intr_inan"}
+{"sentence": "чертеж увлекал", "idx": 1, "label": "intr_inan"}
+{"sentence": "чертеж увлекали", "idx": 0, "label": "intr_inan"}
+{"sentence": "чертеж был хорошим", "idx": 1, "label": "intr_inan"}
+{"sentence": "чертеж были хорошими", "idx": 0, "label": "intr_inan"}
+{"sentence": "чертеж был известным", "idx": 1, "label": "intr_inan"}
+{"sentence": "чертеж были известными", "idx": 0, "label": "intr_inan"}
+{"sentence": "чертежи восхищал", "idx": 0, "label": "intr_inan"}
+{"sentence": "чертежи восхищали", "idx": 1, "label": "intr_inan"}
+{"sentence": "чертежи увлекал", "idx": 0, "label": "intr_inan"}
+{"sentence": "чертежи увлекали", "idx": 1, "label": "intr_inan"}
+{"sentence": "чертежи был хорошим", "idx": 0, "label": "intr_inan"}
+{"sentence": "чертежи были хорошими", "idx": 1, "label": "intr_inan"}
+{"sentence": "чертежи был известным", "idx": 0, "label": "intr_inan"}
+{"sentence": "чертежи были известными", "idx": 1, "label": "intr_inan"}
+{"sentence": "учебник восхищал", "idx": 1, "label": "intr_inan"}
+{"sentence": "учебник восхищали", "idx": 0, "label": "intr_inan"}
+{"sentence": "учебник увлекал", "idx": 1, "label": "intr_inan"}
+{"sentence": "учебник увлекали", "idx": 0, "label": "intr_inan"}
+{"sentence": "учебник был хорошим", "idx": 1, "label": "intr_inan"}
+{"sentence": "учебник были хорошими", "idx": 0, "label": "intr_inan"}
+{"sentence": "учебник был известным", "idx": 1, "label": "intr_inan"}
+{"sentence": "учебник были известными", "idx": 0, "label": "intr_inan"}
+{"sentence": "учебники восхищал", "idx": 0, "label": "intr_inan"}
+{"sentence": "учебники восхищали", "idx": 1, "label": "intr_inan"}
+{"sentence": "учебники увлекал", "idx": 0, "label": "intr_inan"}
+{"sentence": "учебники увлекали", "idx": 1, "label": "intr_inan"}
+{"sentence": "учебники был хорошим", "idx": 0, "label": "intr_inan"}
+{"sentence": "учебники были хорошими", "idx": 1, "label": "intr_inan"}
+{"sentence": "учебники был известным", "idx": 0, "label": "intr_inan"}
+{"sentence": "учебники были известными", "idx": 1, "label": "intr_inan"}

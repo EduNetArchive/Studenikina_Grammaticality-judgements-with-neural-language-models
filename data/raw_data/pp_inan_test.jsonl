@@ -1,0 +1,64 @@
+{"sentence": "рассказ от секретаря был новым", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказ от секретаря были новыми", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказ от секретаря веселил", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказ от секретаря веселили", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказы от секретаря был новым", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказы от секретаря были новыми", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказы от секретаря веселил", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказы от секретаря веселили", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакль от секретаря был новым", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакль от секретаря были новыми", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакль от секретаря веселил", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакль от секретаря веселили", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакли от секретаря был новым", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакли от секретаря были новыми", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакли от секретаря веселил", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакли от секретаря веселили", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказ от секретарей был новым", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказ от секретарей были новыми", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказ от секретарей веселил", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказ от секретарей веселили", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказы от секретарей был новым", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказы от секретарей были новыми", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказы от секретарей веселил", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказы от секретарей веселили", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакль от секретарей был новым", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакль от секретарей были новыми", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакль от секретарей веселил", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакль от секретарей веселили", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакли от секретарей был новым", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакли от секретарей были новыми", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакли от секретарей веселил", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакли от секретарей веселили", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказ от офицера был новым", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказ от офицера были новыми", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказ от офицера веселил", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказ от офицера веселили", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказы от офицера был новым", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказы от офицера были новыми", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказы от офицера веселил", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказы от офицера веселили", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакль от офицера был новым", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакль от офицера были новыми", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакль от офицера веселил", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакль от офицера веселили", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакли от офицера был новым", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакли от офицера были новыми", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакли от офицера веселил", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакли от офицера веселили", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказ от офицеров был новым", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказ от офицеров были новыми", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказ от офицеров веселил", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказ от офицеров веселили", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказы от офицеров был новым", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказы от офицеров были новыми", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказы от офицеров веселил", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказы от офицеров веселили", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакль от офицеров был новым", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакль от офицеров были новыми", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакль от офицеров веселил", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакль от офицеров веселили", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакли от офицеров был новым", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакли от офицеров были новыми", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакли от офицеров веселил", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакли от офицеров веселили", "idx": 1, "label": "pp_inan"}

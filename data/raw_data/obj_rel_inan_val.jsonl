@@ -1,0 +1,128 @@
+{"sentence": "рисунок который презирал министр был плохим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который презирал министр были плохими", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунок который презирал министр расстраивал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который презирал министр расстраивали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые презирал министр был плохим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые презирал министр были плохими", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые презирал министр расстраивал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые презирал министр расстраивали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который презирал министр был плохим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который презирал министр были плохими", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "роман который презирал министр расстраивал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который презирал министр расстраивали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые презирал министр был плохим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые презирал министр были плохими", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "романы которые презирал министр расстраивал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые презирал министр расстраивали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который презирали министры был плохим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который презирали министры были плохими", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунок который презирали министры расстраивал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который презирали министры расстраивали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые презирали министры был плохим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые презирали министры были плохими", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые презирали министры расстраивал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые презирали министры расстраивали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который презирали министры был плохим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который презирали министры были плохими", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "роман который презирали министры расстраивал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который презирали министры расстраивали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые презирали министры был плохим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые презирали министры были плохими", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "романы которые презирали министры расстраивал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые презирали министры расстраивали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который презирал водитель был плохим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который презирал водитель были плохими", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунок который презирал водитель расстраивал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который презирал водитель расстраивали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые презирал водитель был плохим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые презирал водитель были плохими", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые презирал водитель расстраивал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые презирал водитель расстраивали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который презирал водитель был плохим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который презирал водитель были плохими", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "роман который презирал водитель расстраивал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который презирал водитель расстраивали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые презирал водитель был плохим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые презирал водитель были плохими", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "романы которые презирал водитель расстраивал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые презирал водитель расстраивали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который презирали водители был плохим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который презирали водители были плохими", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунок который презирали водители расстраивал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который презирали водители расстраивали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые презирали водители был плохим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые презирали водители были плохими", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые презирали водители расстраивал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые презирали водители расстраивали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который презирали водители был плохим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который презирали водители были плохими", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "роман который презирали водители расстраивал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который презирали водители расстраивали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые презирали водители был плохим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые презирали водители были плохими", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "романы которые презирали водители расстраивал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые презирали водители расстраивали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который ценил министр был плохим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который ценил министр были плохими", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунок который ценил министр расстраивал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который ценил министр расстраивали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые ценил министр был плохим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые ценил министр были плохими", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые ценил министр расстраивал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые ценил министр расстраивали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который ценил министр был плохим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который ценил министр были плохими", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "роман который ценил министр расстраивал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который ценил министр расстраивали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые ценил министр был плохим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые ценил министр были плохими", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "романы которые ценил министр расстраивал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые ценил министр расстраивали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который ценили министры был плохим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который ценили министры были плохими", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунок который ценили министры расстраивал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который ценили министры расстраивали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые ценили министры был плохим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые ценили министры были плохими", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые ценили министры расстраивал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые ценили министры расстраивали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который ценили министры был плохим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который ценили министры были плохими", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "роман который ценили министры расстраивал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который ценили министры расстраивали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые ценили министры был плохим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые ценили министры были плохими", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "романы которые ценили министры расстраивал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые ценили министры расстраивали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который ценил водитель был плохим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который ценил водитель были плохими", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунок который ценил водитель расстраивал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который ценил водитель расстраивали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые ценил водитель был плохим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые ценил водитель были плохими", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые ценил водитель расстраивал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые ценил водитель расстраивали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который ценил водитель был плохим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который ценил водитель были плохими", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "роман который ценил водитель расстраивал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который ценил водитель расстраивали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые ценил водитель был плохим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые ценил водитель были плохими", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "романы которые ценил водитель расстраивал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые ценил водитель расстраивали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который ценили водители был плохим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который ценили водители были плохими", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунок который ценили водители расстраивал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунок который ценили водители расстраивали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые ценили водители был плохим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые ценили водители были плохими", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые ценили водители расстраивал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рисунки которые ценили водители расстраивали", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который ценили водители был плохим", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который ценили водители были плохими", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "роман который ценили водители расстраивал", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "роман который ценили водители расстраивали", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые ценили водители был плохим", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые ценили водители были плохими", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "романы которые ценили водители расстраивал", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "романы которые ценили водители расстраивали", "idx": 1, "label": "obj_rel_inan"}

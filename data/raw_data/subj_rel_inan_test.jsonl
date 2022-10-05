@@ -1,0 +1,128 @@
+{"sentence": "чиновник который обожал рассказ был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который обожал рассказ были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновник который обожал рассказ обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который обожал рассказ обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали рассказ был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали рассказ были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали рассказ обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали рассказ обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который игнорировал рассказ был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который игнорировал рассказ были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновник который игнорировал рассказ обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который игнорировал рассказ обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые игнорировали рассказ был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые игнорировали рассказ были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые игнорировали рассказ обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые игнорировали рассказ обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал рассказ был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал рассказ были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал рассказ обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал рассказ обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали рассказ был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали рассказ были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали рассказ обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали рассказ обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал рассказ был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал рассказ были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал рассказ обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал рассказ обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали рассказ был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали рассказ были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали рассказ обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали рассказ обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который обожал рассказы был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который обожал рассказы были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновник который обожал рассказы обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который обожал рассказы обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали рассказы был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали рассказы были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали рассказы обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали рассказы обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который игнорировал рассказы был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который игнорировал рассказы были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновник который игнорировал рассказы обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который игнорировал рассказы обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые игнорировали рассказы был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые игнорировали рассказы были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые игнорировали рассказы обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые игнорировали рассказы обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал рассказы был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал рассказы были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал рассказы обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал рассказы обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали рассказы был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали рассказы были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали рассказы обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали рассказы обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал рассказы был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал рассказы были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал рассказы обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал рассказы обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали рассказы был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали рассказы были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали рассказы обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали рассказы обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который обожал спектакль был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который обожал спектакль были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновник который обожал спектакль обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который обожал спектакль обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали спектакль был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали спектакль были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали спектакль обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали спектакль обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который игнорировал спектакль был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который игнорировал спектакль были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновник который игнорировал спектакль обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который игнорировал спектакль обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые игнорировали спектакль был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые игнорировали спектакль были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые игнорировали спектакль обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые игнорировали спектакль обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал спектакль был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал спектакль были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал спектакль обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал спектакль обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали спектакль был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали спектакль были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали спектакль обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали спектакль обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал спектакль был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал спектакль были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал спектакль обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал спектакль обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали спектакль был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали спектакль были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали спектакль обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали спектакль обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который обожал спектакли был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который обожал спектакли были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновник который обожал спектакли обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который обожал спектакли обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали спектакли был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали спектакли были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали спектакли обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали спектакли обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который игнорировал спектакли был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который игнорировал спектакли были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновник который игнорировал спектакли обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который игнорировал спектакли обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые игнорировали спектакли был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые игнорировали спектакли были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые игнорировали спектакли обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые игнорировали спектакли обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал спектакли был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал спектакли были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал спектакли обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал спектакли обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали спектакли был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали спектакли были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали спектакли обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали спектакли обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал спектакли был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал спектакли были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал спектакли обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал спектакли обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали спектакли был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали спектакли были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали спектакли обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали спектакли обедали", "idx": 1, "label": "subj_rel_inan"}

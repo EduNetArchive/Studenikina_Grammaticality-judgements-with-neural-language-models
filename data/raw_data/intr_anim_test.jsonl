@@ -1,0 +1,16 @@
+{"sentence": "чиновник был молодым", "idx": 1, "label": "intr_anim"}
+{"sentence": "чиновник были молодыми", "idx": 0, "label": "intr_anim"}
+{"sentence": "чиновник обедал", "idx": 1, "label": "intr_anim"}
+{"sentence": "чиновник обедали", "idx": 0, "label": "intr_anim"}
+{"sentence": "чиновники был молодым", "idx": 0, "label": "intr_anim"}
+{"sentence": "чиновники были молодыми", "idx": 1, "label": "intr_anim"}
+{"sentence": "чиновники обедал", "idx": 0, "label": "intr_anim"}
+{"sentence": "чиновники обедали", "idx": 1, "label": "intr_anim"}
+{"sentence": "студент был молодым", "idx": 1, "label": "intr_anim"}
+{"sentence": "студент были молодыми", "idx": 0, "label": "intr_anim"}
+{"sentence": "студент обедал", "idx": 1, "label": "intr_anim"}
+{"sentence": "студент обедали", "idx": 0, "label": "intr_anim"}
+{"sentence": "студенты был молодым", "idx": 0, "label": "intr_anim"}
+{"sentence": "студенты были молодыми", "idx": 1, "label": "intr_anim"}
+{"sentence": "студенты обедал", "idx": 0, "label": "intr_anim"}
+{"sentence": "студенты обедали", "idx": 1, "label": "intr_anim"}

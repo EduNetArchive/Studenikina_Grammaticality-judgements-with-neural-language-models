@@ -1,0 +1,16 @@
+{"sentence": "рисунок был плохим", "idx": 1, "label": "intr_inan"}
+{"sentence": "рисунок были плохими", "idx": 0, "label": "intr_inan"}
+{"sentence": "рисунок расстраивал", "idx": 1, "label": "intr_inan"}
+{"sentence": "рисунок расстраивали", "idx": 0, "label": "intr_inan"}
+{"sentence": "рисунки был плохим", "idx": 0, "label": "intr_inan"}
+{"sentence": "рисунки были плохими", "idx": 1, "label": "intr_inan"}
+{"sentence": "рисунки расстраивал", "idx": 0, "label": "intr_inan"}
+{"sentence": "рисунки расстраивали", "idx": 1, "label": "intr_inan"}
+{"sentence": "роман был плохим", "idx": 1, "label": "intr_inan"}
+{"sentence": "роман были плохими", "idx": 0, "label": "intr_inan"}
+{"sentence": "роман расстраивал", "idx": 1, "label": "intr_inan"}
+{"sentence": "роман расстраивали", "idx": 0, "label": "intr_inan"}
+{"sentence": "романы был плохим", "idx": 0, "label": "intr_inan"}
+{"sentence": "романы были плохими", "idx": 1, "label": "intr_inan"}
+{"sentence": "романы расстраивал", "idx": 0, "label": "intr_inan"}
+{"sentence": "романы расстраивали", "idx": 1, "label": "intr_inan"}

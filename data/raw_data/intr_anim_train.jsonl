@@ -1,0 +1,80 @@
+{"sentence": "писатель рассуждал", "idx": 1, "label": "intr_anim"}
+{"sentence": "писатель рассуждали", "idx": 0, "label": "intr_anim"}
+{"sentence": "писатель пел", "idx": 1, "label": "intr_anim"}
+{"sentence": "писатель пели", "idx": 0, "label": "intr_anim"}
+{"sentence": "писатель был высоким", "idx": 1, "label": "intr_anim"}
+{"sentence": "писатель были высокими", "idx": 0, "label": "intr_anim"}
+{"sentence": "писатель был пожилым", "idx": 1, "label": "intr_anim"}
+{"sentence": "писатель были пожилыми", "idx": 0, "label": "intr_anim"}
+{"sentence": "писатели рассуждал", "idx": 0, "label": "intr_anim"}
+{"sentence": "писатели рассуждали", "idx": 1, "label": "intr_anim"}
+{"sentence": "писатели пел", "idx": 0, "label": "intr_anim"}
+{"sentence": "писатели пели", "idx": 1, "label": "intr_anim"}
+{"sentence": "писатели был высоким", "idx": 0, "label": "intr_anim"}
+{"sentence": "писатели были высокими", "idx": 1, "label": "intr_anim"}
+{"sentence": "писатели был пожилым", "idx": 0, "label": "intr_anim"}
+{"sentence": "писатели были пожилыми", "idx": 1, "label": "intr_anim"}
+{"sentence": "пилот рассуждал", "idx": 1, "label": "intr_anim"}
+{"sentence": "пилот рассуждали", "idx": 0, "label": "intr_anim"}
+{"sentence": "пилот пел", "idx": 1, "label": "intr_anim"}
+{"sentence": "пилот пели", "idx": 0, "label": "intr_anim"}
+{"sentence": "пилот был высоким", "idx": 1, "label": "intr_anim"}
+{"sentence": "пилот были высокими", "idx": 0, "label": "intr_anim"}
+{"sentence": "пилот был пожилым", "idx": 1, "label": "intr_anim"}
+{"sentence": "пилот были пожилыми", "idx": 0, "label": "intr_anim"}
+{"sentence": "пилоты рассуждал", "idx": 0, "label": "intr_anim"}
+{"sentence": "пилоты рассуждали", "idx": 1, "label": "intr_anim"}
+{"sentence": "пилоты пел", "idx": 0, "label": "intr_anim"}
+{"sentence": "пилоты пели", "idx": 1, "label": "intr_anim"}
+{"sentence": "пилоты был высоким", "idx": 0, "label": "intr_anim"}
+{"sentence": "пилоты были высокими", "idx": 1, "label": "intr_anim"}
+{"sentence": "пилоты был пожилым", "idx": 0, "label": "intr_anim"}
+{"sentence": "пилоты были пожилыми", "idx": 1, "label": "intr_anim"}
+{"sentence": "фермер рассуждал", "idx": 1, "label": "intr_anim"}
+{"sentence": "фермер рассуждали", "idx": 0, "label": "intr_anim"}
+{"sentence": "фермер пел", "idx": 1, "label": "intr_anim"}
+{"sentence": "фермер пели", "idx": 0, "label": "intr_anim"}
+{"sentence": "фермер был высоким", "idx": 1, "label": "intr_anim"}
+{"sentence": "фермер были высокими", "idx": 0, "label": "intr_anim"}
+{"sentence": "фермер был пожилым", "idx": 1, "label": "intr_anim"}
+{"sentence": "фермер были пожилыми", "idx": 0, "label": "intr_anim"}
+{"sentence": "фермеры рассуждал", "idx": 0, "label": "intr_anim"}
+{"sentence": "фермеры рассуждали", "idx": 1, "label": "intr_anim"}
+{"sentence": "фермеры пел", "idx": 0, "label": "intr_anim"}
+{"sentence": "фермеры пели", "idx": 1, "label": "intr_anim"}
+{"sentence": "фермеры был высоким", "idx": 0, "label": "intr_anim"}
+{"sentence": "фермеры были высокими", "idx": 1, "label": "intr_anim"}
+{"sentence": "фермеры был пожилым", "idx": 0, "label": "intr_anim"}
+{"sentence": "фермеры были пожилыми", "idx": 1, "label": "intr_anim"}
+{"sentence": "руководитель рассуждал", "idx": 1, "label": "intr_anim"}
+{"sentence": "руководитель рассуждали", "idx": 0, "label": "intr_anim"}
+{"sentence": "руководитель пел", "idx": 1, "label": "intr_anim"}
+{"sentence": "руководитель пели", "idx": 0, "label": "intr_anim"}
+{"sentence": "руководитель был высоким", "idx": 1, "label": "intr_anim"}
+{"sentence": "руководитель были высокими", "idx": 0, "label": "intr_anim"}
+{"sentence": "руководитель был пожилым", "idx": 1, "label": "intr_anim"}
+{"sentence": "руководитель были пожилыми", "idx": 0, "label": "intr_anim"}
+{"sentence": "руководители рассуждал", "idx": 0, "label": "intr_anim"}
+{"sentence": "руководители рассуждали", "idx": 1, "label": "intr_anim"}
+{"sentence": "руководители пел", "idx": 0, "label": "intr_anim"}
+{"sentence": "руководители пели", "idx": 1, "label": "intr_anim"}
+{"sentence": "руководители был высоким", "idx": 0, "label": "intr_anim"}
+{"sentence": "руководители были высокими", "idx": 1, "label": "intr_anim"}
+{"sentence": "руководители был пожилым", "idx": 0, "label": "intr_anim"}
+{"sentence": "руководители были пожилыми", "idx": 1, "label": "intr_anim"}
+{"sentence": "покупатель рассуждал", "idx": 1, "label": "intr_anim"}
+{"sentence": "покупатель рассуждали", "idx": 0, "label": "intr_anim"}
+{"sentence": "покупатель пел", "idx": 1, "label": "intr_anim"}
+{"sentence": "покупатель пели", "idx": 0, "label": "intr_anim"}
+{"sentence": "покупатель был высоким", "idx": 1, "label": "intr_anim"}
+{"sentence": "покупатель были высокими", "idx": 0, "label": "intr_anim"}
+{"sentence": "покупатель был пожилым", "idx": 1, "label": "intr_anim"}
+{"sentence": "покупатель были пожилыми", "idx": 0, "label": "intr_anim"}
+{"sentence": "покупатели рассуждал", "idx": 0, "label": "intr_anim"}
+{"sentence": "покупатели рассуждали", "idx": 1, "label": "intr_anim"}
+{"sentence": "покупатели пел", "idx": 0, "label": "intr_anim"}
+{"sentence": "покупатели пели", "idx": 1, "label": "intr_anim"}
+{"sentence": "покупатели был высоким", "idx": 0, "label": "intr_anim"}
+{"sentence": "покупатели были высокими", "idx": 1, "label": "intr_anim"}
+{"sentence": "покупатели был пожилым", "idx": 0, "label": "intr_anim"}
+{"sentence": "покупатели были пожилыми", "idx": 1, "label": "intr_anim"}

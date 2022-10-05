@@ -1,0 +1,640 @@
+{"sentence": "механик говорил что фильм восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что фильм восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что фильм увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что фильм увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что фильм был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что фильм были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что фильм был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что фильм были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что фильмы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что фильмы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что фильмы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что фильмы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что фильмы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что фильмы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что фильмы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что фильмы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что журнал восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что журнал восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что журнал увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что журнал увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что журнал был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что журнал были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что журнал был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что журнал были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что журналы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что журналы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что журналы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что журналы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что журналы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что журналы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что журналы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что журналы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что сериал восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что сериал восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что сериал увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что сериал увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что сериал был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что сериал были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что сериал был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что сериал были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что сериалы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что сериалы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что сериалы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что сериалы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что сериалы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что сериалы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что сериалы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что сериалы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что чертеж восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что чертеж восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что чертеж увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что чертеж увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что чертеж был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что чертеж были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что чертеж был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что чертеж были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что чертежи восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что чертежи восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что чертежи увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что чертежи увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что чертежи был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что чертежи были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что чертежи был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что чертежи были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что учебник восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что учебник восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что учебник увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что учебник увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что учебник был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что учебник были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что учебник был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что учебник были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что учебники восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что учебники восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что учебники увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что учебники увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что учебники был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что учебники были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик говорил что учебники был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик говорил что учебники были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что фильм восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что фильм восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что фильм увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что фильм увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что фильм был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что фильм были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что фильм был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что фильм были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что фильмы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что фильмы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что фильмы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что фильмы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что фильмы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что фильмы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что фильмы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что фильмы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что журнал восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что журнал восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что журнал увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что журнал увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что журнал был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что журнал были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что журнал был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что журнал были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что журналы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что журналы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что журналы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что журналы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что журналы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что журналы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что журналы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что журналы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что сериал восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что сериал восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что сериал увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что сериал увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что сериал был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что сериал были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что сериал был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что сериал были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что сериалы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что сериалы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что сериалы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что сериалы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что сериалы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что сериалы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что сериалы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что сериалы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что чертеж восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что чертеж восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что чертеж увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что чертеж увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что чертеж был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что чертеж были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что чертеж был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что чертеж были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что чертежи восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что чертежи восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что чертежи увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что чертежи увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что чертежи был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что чертежи были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что чертежи был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что чертежи были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что учебник восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что учебник восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что учебник увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что учебник увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что учебник был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что учебник были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что учебник был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что учебник были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что учебники восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что учебники восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что учебники увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что учебники увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что учебники был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что учебники были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики говорили что учебники был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики говорили что учебники были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что фильм восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что фильм восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что фильм увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что фильм увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что фильм был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что фильм были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что фильм был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что фильм были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что фильмы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что фильмы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что фильмы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что фильмы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что фильмы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что фильмы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что фильмы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что фильмы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что журнал восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что журнал восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что журнал увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что журнал увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что журнал был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что журнал были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что журнал был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что журнал были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что журналы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что журналы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что журналы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что журналы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что журналы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что журналы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что журналы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что журналы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что сериал восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что сериал восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что сериал увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что сериал увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что сериал был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что сериал были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что сериал был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что сериал были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что сериалы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что сериалы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что сериалы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что сериалы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что сериалы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что сериалы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что сериалы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что сериалы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что чертеж восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что чертеж восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что чертеж увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что чертеж увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что чертеж был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что чертеж были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что чертеж был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что чертеж были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что чертежи восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что чертежи восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что чертежи увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что чертежи увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что чертежи был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что чертежи были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что чертежи был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что чертежи были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что учебник восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что учебник восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что учебник увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что учебник увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что учебник был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что учебник были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что учебник был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что учебник были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что учебники восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что учебники восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что учебники увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что учебники увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что учебники был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что учебники были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир говорил что учебники был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир говорил что учебники были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что фильм восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что фильм восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что фильм увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что фильм увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что фильм был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что фильм были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что фильм был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что фильм были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что фильмы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что фильмы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что фильмы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что фильмы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что фильмы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что фильмы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что фильмы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что фильмы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что журнал восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что журнал восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что журнал увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что журнал увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что журнал был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что журнал были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что журнал был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что журнал были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что журналы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что журналы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что журналы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что журналы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что журналы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что журналы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что журналы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что журналы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что сериал восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что сериал восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что сериал увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что сериал увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что сериал был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что сериал были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что сериал был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что сериал были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что сериалы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что сериалы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что сериалы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что сериалы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что сериалы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что сериалы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что сериалы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что сериалы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что чертеж восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что чертеж восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что чертеж увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что чертеж увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что чертеж был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что чертеж были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что чертеж был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что чертеж были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что чертежи восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что чертежи восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что чертежи увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что чертежи увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что чертежи был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что чертежи были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что чертежи был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что чертежи были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что учебник восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что учебник восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что учебник увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что учебник увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что учебник был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что учебник были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что учебник был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что учебник были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что учебники восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что учебники восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что учебники увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что учебники увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что учебники был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что учебники были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры говорили что учебники был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры говорили что учебники были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что фильм восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что фильм восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что фильм увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что фильм увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что фильм был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что фильм были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что фильм был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что фильм были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что фильмы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что фильмы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что фильмы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что фильмы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что фильмы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что фильмы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что фильмы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что фильмы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что журнал восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что журнал восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что журнал увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что журнал увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что журнал был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что журнал были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что журнал был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что журнал были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что журналы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что журналы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что журналы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что журналы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что журналы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что журналы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что журналы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что журналы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что сериал восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что сериал восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что сериал увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что сериал увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что сериал был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что сериал были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что сериал был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что сериал были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что сериалы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что сериалы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что сериалы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что сериалы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что сериалы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что сериалы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что сериалы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что сериалы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что чертеж восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что чертеж восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что чертеж увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что чертеж увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что чертеж был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что чертеж были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что чертеж был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что чертеж были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что чертежи восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что чертежи восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что чертежи увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что чертежи увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что чертежи был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что чертежи были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что чертежи был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что чертежи были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что учебник восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что учебник восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что учебник увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что учебник увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что учебник был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что учебник были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что учебник был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что учебник были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что учебники восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что учебники восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что учебники увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что учебники увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что учебники был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что учебники были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик предполагал что учебники был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик предполагал что учебники были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что фильм восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что фильм восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что фильм увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что фильм увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что фильм был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что фильм были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что фильм был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что фильм были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что фильмы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что фильмы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что фильмы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что фильмы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что фильмы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что фильмы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что фильмы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что фильмы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что журнал восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что журнал восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что журнал увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что журнал увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что журнал был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что журнал были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что журнал был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что журнал были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что журналы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что журналы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что журналы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что журналы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что журналы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что журналы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что журналы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что журналы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что сериал восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что сериал восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что сериал увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что сериал увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что сериал был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что сериал были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что сериал был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что сериал были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что сериалы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что сериалы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что сериалы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что сериалы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что сериалы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что сериалы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что сериалы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что сериалы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что чертеж восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что чертеж восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что чертеж увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что чертеж увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что чертеж был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что чертеж были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что чертеж был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что чертеж были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что чертежи восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что чертежи восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что чертежи увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что чертежи увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что чертежи был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что чертежи были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что чертежи был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что чертежи были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что учебник восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что учебник восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что учебник увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что учебник увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что учебник был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что учебник были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что учебник был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что учебник были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что учебники восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что учебники восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что учебники увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что учебники увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что учебники был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что учебники были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "механики предполагали что учебники был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики предполагали что учебники были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что фильм восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что фильм восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что фильм увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что фильм увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что фильм был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что фильм были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что фильм был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что фильм были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что фильмы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что фильмы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что фильмы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что фильмы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что фильмы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что фильмы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что фильмы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что фильмы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что журнал восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что журнал восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что журнал увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что журнал увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что журнал был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что журнал были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что журнал был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что журнал были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что журналы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что журналы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что журналы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что журналы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что журналы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что журналы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что журналы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что журналы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что сериал восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что сериал восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что сериал увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что сериал увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что сериал был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что сериал были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что сериал был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что сериал были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что сериалы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что сериалы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что сериалы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что сериалы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что сериалы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что сериалы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что сериалы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что сериалы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что чертеж восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что чертеж восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что чертеж увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что чертеж увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что чертеж был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что чертеж были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что чертеж был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что чертеж были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что чертежи восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что чертежи восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что чертежи увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что чертежи увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что чертежи был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что чертежи были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что чертежи был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что чертежи были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что учебник восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что учебник восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что учебник увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что учебник увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что учебник был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что учебник были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что учебник был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что учебник были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что учебники восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что учебники восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что учебники увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что учебники увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что учебники был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что учебники были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир предполагал что учебники был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкир предполагал что учебники были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что фильм восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что фильм восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что фильм увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что фильм увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что фильм был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что фильм были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что фильм был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что фильм были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что фильмы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что фильмы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что фильмы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что фильмы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что фильмы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что фильмы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что фильмы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что фильмы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что журнал восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что журнал восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что журнал увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что журнал увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что журнал был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что журнал были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что журнал был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что журнал были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что журналы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что журналы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что журналы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что журналы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что журналы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что журналы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что журналы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что журналы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что сериал восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что сериал восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что сериал увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что сериал увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что сериал был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что сериал были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что сериал был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что сериал были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что сериалы восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что сериалы восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что сериалы увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что сериалы увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что сериалы был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что сериалы были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что сериалы был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что сериалы были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что чертеж восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что чертеж восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что чертеж увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что чертеж увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что чертеж был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что чертеж были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что чертеж был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что чертеж были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что чертежи восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что чертежи восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что чертежи увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что чертежи увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что чертежи был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что чертежи были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что чертежи был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что чертежи были известными", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что учебник восхищал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что учебник восхищали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что учебник увлекал", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что учебник увлекали", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что учебник был хорошим", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что учебник были хорошими", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что учебник был известным", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что учебник были известными", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что учебники восхищал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что учебники восхищали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что учебники увлекал", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что учебники увлекали", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что учебники был хорошим", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что учебники были хорошими", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что учебники был известным", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры предполагали что учебники были известными", "idx": 1, "label": "chto_inan"}

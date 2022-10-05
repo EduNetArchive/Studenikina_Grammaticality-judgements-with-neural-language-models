@@ -1,0 +1,128 @@
+{"sentence": "командир который презирал рисунок размышлял", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который презирал рисунок размышляли", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командир который презирал рисунок был низким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который презирал рисунок были низкими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые презирали рисунок размышлял", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые презирали рисунок размышляли", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командиры которые презирали рисунок был низким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые презирали рисунок были низкими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который ценил рисунок размышлял", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который ценил рисунок размышляли", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командир который ценил рисунок был низким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который ценил рисунок были низкими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые ценили рисунок размышлял", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые ценили рисунок размышляли", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командиры которые ценили рисунок был низким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые ценили рисунок были низкими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который презирал рисунок размышлял", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который презирал рисунок размышляли", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который презирал рисунок был низким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который презирал рисунок были низкими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые презирали рисунок размышлял", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые презирали рисунок размышляли", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые презирали рисунок был низким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые презирали рисунок были низкими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который ценил рисунок размышлял", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который ценил рисунок размышляли", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который ценил рисунок был низким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который ценил рисунок были низкими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые ценили рисунок размышлял", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые ценили рисунок размышляли", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые ценили рисунок был низким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые ценили рисунок были низкими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который презирал рисунки размышлял", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который презирал рисунки размышляли", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командир который презирал рисунки был низким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который презирал рисунки были низкими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые презирали рисунки размышлял", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые презирали рисунки размышляли", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командиры которые презирали рисунки был низким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые презирали рисунки были низкими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который ценил рисунки размышлял", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который ценил рисунки размышляли", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командир который ценил рисунки был низким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который ценил рисунки были низкими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые ценили рисунки размышлял", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые ценили рисунки размышляли", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командиры которые ценили рисунки был низким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые ценили рисунки были низкими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который презирал рисунки размышлял", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который презирал рисунки размышляли", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который презирал рисунки был низким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который презирал рисунки были низкими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые презирали рисунки размышлял", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые презирали рисунки размышляли", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые презирали рисунки был низким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые презирали рисунки были низкими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который ценил рисунки размышлял", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который ценил рисунки размышляли", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который ценил рисунки был низким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который ценил рисунки были низкими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые ценили рисунки размышлял", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые ценили рисунки размышляли", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые ценили рисунки был низким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые ценили рисунки были низкими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который презирал роман размышлял", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который презирал роман размышляли", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командир который презирал роман был низким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который презирал роман были низкими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые презирали роман размышлял", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые презирали роман размышляли", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командиры которые презирали роман был низким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые презирали роман были низкими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который ценил роман размышлял", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который ценил роман размышляли", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командир который ценил роман был низким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который ценил роман были низкими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые ценили роман размышлял", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые ценили роман размышляли", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командиры которые ценили роман был низким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые ценили роман были низкими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который презирал роман размышлял", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который презирал роман размышляли", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который презирал роман был низким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который презирал роман были низкими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые презирали роман размышлял", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые презирали роман размышляли", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые презирали роман был низким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые презирали роман были низкими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который ценил роман размышлял", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который ценил роман размышляли", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который ценил роман был низким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который ценил роман были низкими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые ценили роман размышлял", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые ценили роман размышляли", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые ценили роман был низким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые ценили роман были низкими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который презирал романы размышлял", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который презирал романы размышляли", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командир который презирал романы был низким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который презирал романы были низкими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые презирали романы размышлял", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые презирали романы размышляли", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командиры которые презирали романы был низким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые презирали романы были низкими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который ценил романы размышлял", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который ценил романы размышляли", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командир который ценил романы был низким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командир который ценил романы были низкими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые ценили романы размышлял", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые ценили романы размышляли", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "командиры которые ценили романы был низким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "командиры которые ценили романы были низкими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который презирал романы размышлял", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который презирал романы размышляли", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который презирал романы был низким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который презирал романы были низкими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые презирали романы размышлял", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые презирали романы размышляли", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые презирали романы был низким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые презирали романы были низкими", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который ценил романы размышлял", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который ценил романы размышляли", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который ценил романы был низким", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватель который ценил романы были низкими", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые ценили романы размышлял", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые ценили романы размышляли", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые ценили романы был низким", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "преподаватели которые ценили романы были низкими", "idx": 1, "label": "subj_rel_inan"}

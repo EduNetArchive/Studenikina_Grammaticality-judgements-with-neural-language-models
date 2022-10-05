@@ -1,0 +1,800 @@
+{"sentence": "фильм для охранника восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для охранника восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для охранника увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для охранника увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для охранника был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для охранника были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для охранника был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для охранника были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для охранника восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для охранника восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для охранника увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для охранника увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для охранника был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для охранника были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для охранника был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для охранника были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для охранника восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для охранника восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для охранника увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для охранника увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для охранника был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для охранника были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для охранника был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для охранника были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для охранника восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для охранника восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для охранника увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для охранника увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для охранника был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для охранника были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для охранника был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для охранника были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для охранника восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для охранника восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для охранника увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для охранника увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для охранника был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для охранника были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для охранника был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для охранника были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для охранника восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для охранника восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для охранника увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для охранника увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для охранника был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для охранника были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для охранника был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для охранника были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для охранника восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для охранника восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для охранника увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для охранника увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для охранника был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для охранника были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для охранника был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для охранника были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для охранника восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для охранника восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для охранника увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для охранника увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для охранника был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для охранника были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для охранника был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для охранника были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для охранника восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для охранника восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для охранника увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для охранника увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для охранника был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для охранника были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для охранника был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для охранника были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для охранника восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для охранника восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для охранника увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для охранника увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для охранника был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для охранника были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для охранника был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для охранника были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для охранников восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для охранников восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для охранников увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для охранников увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для охранников был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для охранников были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для охранников был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для охранников были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для охранников восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для охранников восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для охранников увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для охранников увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для охранников был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для охранников были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для охранников был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для охранников были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для охранников восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для охранников восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для охранников увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для охранников увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для охранников был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для охранников были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для охранников был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для охранников были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для охранников восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для охранников восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для охранников увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для охранников увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для охранников был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для охранников были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для охранников был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для охранников были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для охранников восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для охранников восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для охранников увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для охранников увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для охранников был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для охранников были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для охранников был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для охранников были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для охранников восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для охранников восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для охранников увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для охранников увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для охранников был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для охранников были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для охранников был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для охранников были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для охранников восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для охранников восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для охранников увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для охранников увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для охранников был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для охранников были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для охранников был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для охранников были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для охранников восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для охранников восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для охранников увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для охранников увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для охранников был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для охранников были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для охранников был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для охранников были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для охранников восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для охранников восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для охранников увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для охранников увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для охранников был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для охранников были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для охранников был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для охранников были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для охранников восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для охранников восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для охранников увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для охранников увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для охранников был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для охранников были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для охранников был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для охранников были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для ассистента восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для ассистента восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для ассистента увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для ассистента увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для ассистента был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для ассистента были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для ассистента был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для ассистента были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для ассистента восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для ассистента восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для ассистента увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для ассистента увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для ассистента был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для ассистента были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для ассистента был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для ассистента были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для ассистента восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для ассистента восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для ассистента увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для ассистента увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для ассистента был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для ассистента были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для ассистента был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для ассистента были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для ассистента восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для ассистента восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для ассистента увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для ассистента увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для ассистента был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для ассистента были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для ассистента был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для ассистента были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для ассистента восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для ассистента восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для ассистента увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для ассистента увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для ассистента был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для ассистента были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для ассистента был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для ассистента были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для ассистента восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для ассистента восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для ассистента увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для ассистента увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для ассистента был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для ассистента были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для ассистента был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для ассистента были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для ассистента восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для ассистента восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для ассистента увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для ассистента увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для ассистента был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для ассистента были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для ассистента был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для ассистента были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для ассистента восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для ассистента восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для ассистента увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для ассистента увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для ассистента был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для ассистента были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для ассистента был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для ассистента были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для ассистента восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для ассистента восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для ассистента увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для ассистента увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для ассистента был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для ассистента были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для ассистента был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для ассистента были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для ассистента восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для ассистента восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для ассистента увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для ассистента увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для ассистента был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для ассистента были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для ассистента был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для ассистента были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для ассистентов восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для ассистентов восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для ассистентов увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для ассистентов увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для ассистентов был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для ассистентов были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для ассистентов был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для ассистентов были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для ассистентов восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для ассистентов восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для ассистентов увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для ассистентов увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для ассистентов был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для ассистентов были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для ассистентов был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для ассистентов были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для ассистентов восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для ассистентов восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для ассистентов увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для ассистентов увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для ассистентов был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для ассистентов были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для ассистентов был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для ассистентов были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для ассистентов восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для ассистентов восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для ассистентов увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для ассистентов увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для ассистентов был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для ассистентов были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для ассистентов был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для ассистентов были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для ассистентов восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для ассистентов восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для ассистентов увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для ассистентов увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для ассистентов был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для ассистентов были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для ассистентов был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для ассистентов были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для ассистентов восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для ассистентов восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для ассистентов увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для ассистентов увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для ассистентов был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для ассистентов были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для ассистентов был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для ассистентов были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для ассистентов восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для ассистентов восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для ассистентов увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для ассистентов увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для ассистентов был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для ассистентов были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для ассистентов был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для ассистентов были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для ассистентов восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для ассистентов восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для ассистентов увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для ассистентов увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для ассистентов был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для ассистентов были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для ассистентов был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для ассистентов были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для ассистентов восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для ассистентов восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для ассистентов увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для ассистентов увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для ассистентов был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для ассистентов были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для ассистентов был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для ассистентов были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для ассистентов восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для ассистентов восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для ассистентов увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для ассистентов увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для ассистентов был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для ассистентов были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для ассистентов был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для ассистентов были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для архитектора восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для архитектора восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для архитектора увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для архитектора увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для архитектора был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для архитектора были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для архитектора был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для архитектора были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для архитектора восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для архитектора восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для архитектора увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для архитектора увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для архитектора был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для архитектора были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для архитектора был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для архитектора были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для архитектора восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для архитектора восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для архитектора увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для архитектора увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для архитектора был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для архитектора были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для архитектора был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для архитектора были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для архитектора восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для архитектора восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для архитектора увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для архитектора увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для архитектора был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для архитектора были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для архитектора был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для архитектора были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для архитектора восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для архитектора восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для архитектора увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для архитектора увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для архитектора был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для архитектора были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для архитектора был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для архитектора были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для архитектора восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для архитектора восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для архитектора увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для архитектора увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для архитектора был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для архитектора были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для архитектора был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для архитектора были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для архитектора восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для архитектора восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для архитектора увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для архитектора увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для архитектора был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для архитектора были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для архитектора был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для архитектора были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для архитектора восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для архитектора восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для архитектора увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для архитектора увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для архитектора был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для архитектора были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для архитектора был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для архитектора были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для архитектора восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для архитектора восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для архитектора увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для архитектора увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для архитектора был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для архитектора были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для архитектора был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для архитектора были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для архитектора восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для архитектора восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для архитектора увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для архитектора увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для архитектора был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для архитектора были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для архитектора был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для архитектора были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для архитекторов восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для архитекторов восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для архитекторов увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для архитекторов увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для архитекторов был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для архитекторов были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для архитекторов был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для архитекторов были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для архитекторов восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для архитекторов восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для архитекторов увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для архитекторов увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для архитекторов был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для архитекторов были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для архитекторов был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для архитекторов были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для архитекторов восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для архитекторов восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для архитекторов увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для архитекторов увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для архитекторов был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для архитекторов были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для архитекторов был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для архитекторов были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для архитекторов восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для архитекторов восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для архитекторов увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для архитекторов увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для архитекторов был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для архитекторов были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для архитекторов был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для архитекторов были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для архитекторов восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для архитекторов восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для архитекторов увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для архитекторов увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для архитекторов был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для архитекторов были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для архитекторов был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для архитекторов были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для архитекторов восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для архитекторов восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для архитекторов увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для архитекторов увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для архитекторов был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для архитекторов были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для архитекторов был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для архитекторов были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для архитекторов восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для архитекторов восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для архитекторов увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для архитекторов увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для архитекторов был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для архитекторов были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для архитекторов был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для архитекторов были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для архитекторов восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для архитекторов восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для архитекторов увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для архитекторов увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для архитекторов был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для архитекторов были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для архитекторов был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для архитекторов были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для архитекторов восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для архитекторов восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для архитекторов увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для архитекторов увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для архитекторов был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для архитекторов были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для архитекторов был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для архитекторов были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для архитекторов восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для архитекторов восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для архитекторов увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для архитекторов увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для архитекторов был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для архитекторов были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для архитекторов был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для архитекторов были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для фигуриста восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для фигуриста восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для фигуриста увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для фигуриста увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для фигуриста был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для фигуриста были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для фигуриста был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для фигуриста были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для фигуриста восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для фигуриста восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для фигуриста увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для фигуриста увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для фигуриста был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для фигуриста были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для фигуриста был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для фигуриста были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для фигуриста восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для фигуриста восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для фигуриста увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для фигуриста увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для фигуриста был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для фигуриста были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для фигуриста был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для фигуриста были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для фигуриста восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для фигуриста восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для фигуриста увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для фигуриста увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для фигуриста был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для фигуриста были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для фигуриста был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для фигуриста были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для фигуриста восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для фигуриста восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для фигуриста увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для фигуриста увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для фигуриста был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для фигуриста были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для фигуриста был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для фигуриста были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для фигуриста восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для фигуриста восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для фигуриста увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для фигуриста увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для фигуриста был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для фигуриста были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для фигуриста был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для фигуриста были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для фигуриста восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для фигуриста восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для фигуриста увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для фигуриста увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для фигуриста был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для фигуриста были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для фигуриста был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для фигуриста были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для фигуриста восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для фигуриста восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для фигуриста увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для фигуриста увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для фигуриста был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для фигуриста были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для фигуриста был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для фигуриста были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для фигуриста восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для фигуриста восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для фигуриста увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для фигуриста увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для фигуриста был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для фигуриста были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для фигуриста был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для фигуриста были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для фигуриста восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для фигуриста восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для фигуриста увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для фигуриста увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для фигуриста был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для фигуриста были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для фигуриста был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для фигуриста были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для фигуристов восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для фигуристов восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для фигуристов увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для фигуристов увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для фигуристов был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для фигуристов были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для фигуристов был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для фигуристов были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для фигуристов восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для фигуристов восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для фигуристов увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для фигуристов увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для фигуристов был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для фигуристов были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для фигуристов был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для фигуристов были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для фигуристов восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для фигуристов восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для фигуристов увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для фигуристов увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для фигуристов был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для фигуристов были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для фигуристов был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для фигуристов были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для фигуристов восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для фигуристов восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для фигуристов увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для фигуристов увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для фигуристов был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для фигуристов были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для фигуристов был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для фигуристов были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для фигуристов восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для фигуристов восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для фигуристов увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для фигуристов увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для фигуристов был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для фигуристов были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для фигуристов был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для фигуристов были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для фигуристов восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для фигуристов восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для фигуристов увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для фигуристов увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для фигуристов был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для фигуристов были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для фигуристов был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для фигуристов были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для фигуристов восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для фигуристов восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для фигуристов увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для фигуристов увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для фигуристов был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для фигуристов были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для фигуристов был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для фигуристов были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для фигуристов восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для фигуристов восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для фигуристов увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для фигуристов увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для фигуристов был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для фигуристов были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для фигуристов был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для фигуристов были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для фигуристов восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для фигуристов восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для фигуристов увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для фигуристов увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для фигуристов был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для фигуристов были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для фигуристов был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для фигуристов были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для фигуристов восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для фигуристов восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для фигуристов увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для фигуристов увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для фигуристов был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для фигуристов были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для фигуристов был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для фигуристов были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для танцора восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для танцора восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для танцора увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для танцора увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для танцора был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для танцора были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для танцора был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для танцора были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для танцора восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для танцора восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для танцора увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для танцора увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для танцора был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для танцора были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для танцора был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для танцора были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для танцора восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для танцора восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для танцора увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для танцора увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для танцора был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для танцора были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для танцора был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для танцора были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для танцора восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для танцора восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для танцора увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для танцора увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для танцора был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для танцора были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для танцора был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для танцора были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для танцора восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для танцора восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для танцора увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для танцора увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для танцора был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для танцора были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для танцора был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для танцора были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для танцора восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для танцора восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для танцора увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для танцора увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для танцора был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для танцора были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для танцора был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для танцора были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для танцора восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для танцора восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для танцора увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для танцора увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для танцора был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для танцора были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для танцора был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для танцора были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для танцора восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для танцора восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для танцора увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для танцора увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для танцора был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для танцора были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для танцора был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для танцора были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для танцора восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для танцора восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для танцора увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для танцора увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для танцора был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для танцора были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для танцора был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для танцора были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для танцора восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для танцора восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для танцора увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для танцора увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для танцора был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для танцора были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для танцора был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для танцора были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для танцоров восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для танцоров восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для танцоров увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для танцоров увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для танцоров был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для танцоров были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильм для танцоров был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильм для танцоров были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для танцоров восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для танцоров восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для танцоров увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для танцоров увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для танцоров был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для танцоров были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "фильмы для танцоров был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "фильмы для танцоров были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для танцоров восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для танцоров восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для танцоров увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для танцоров увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для танцоров был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для танцоров были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "журнал для танцоров был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "журнал для танцоров были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для танцоров восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для танцоров восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для танцоров увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для танцоров увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для танцоров был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для танцоров были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "журналы для танцоров был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "журналы для танцоров были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для танцоров восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для танцоров восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для танцоров увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для танцоров увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для танцоров был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для танцоров были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериал для танцоров был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериал для танцоров были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для танцоров восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для танцоров восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для танцоров увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для танцоров увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для танцоров был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для танцоров были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "сериалы для танцоров был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "сериалы для танцоров были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для танцоров восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для танцоров восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для танцоров увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для танцоров увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для танцоров был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для танцоров были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертеж для танцоров был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертеж для танцоров были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для танцоров восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для танцоров восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для танцоров увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для танцоров увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для танцоров был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для танцоров были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "чертежи для танцоров был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "чертежи для танцоров были известными", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для танцоров восхищал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для танцоров восхищали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для танцоров увлекал", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для танцоров увлекали", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для танцоров был хорошим", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для танцоров были хорошими", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебник для танцоров был известным", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебник для танцоров были известными", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для танцоров восхищал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для танцоров восхищали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для танцоров увлекал", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для танцоров увлекали", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для танцоров был хорошим", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для танцоров были хорошими", "idx": 1, "label": "pp_inan"}
+{"sentence": "учебники для танцоров был известным", "idx": 0, "label": "pp_inan"}
+{"sentence": "учебники для танцоров были известными", "idx": 1, "label": "pp_inan"}

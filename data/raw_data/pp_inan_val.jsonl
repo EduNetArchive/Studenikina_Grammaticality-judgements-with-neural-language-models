@@ -1,0 +1,64 @@
+{"sentence": "рисунок без министра был плохим", "idx": 1, "label": "pp_inan"}
+{"sentence": "рисунок без министра были плохими", "idx": 0, "label": "pp_inan"}
+{"sentence": "рисунок без министра расстраивал", "idx": 1, "label": "pp_inan"}
+{"sentence": "рисунок без министра расстраивали", "idx": 0, "label": "pp_inan"}
+{"sentence": "рисунки без министра был плохим", "idx": 0, "label": "pp_inan"}
+{"sentence": "рисунки без министра были плохими", "idx": 1, "label": "pp_inan"}
+{"sentence": "рисунки без министра расстраивал", "idx": 0, "label": "pp_inan"}
+{"sentence": "рисунки без министра расстраивали", "idx": 1, "label": "pp_inan"}
+{"sentence": "роман без министра был плохим", "idx": 1, "label": "pp_inan"}
+{"sentence": "роман без министра были плохими", "idx": 0, "label": "pp_inan"}
+{"sentence": "роман без министра расстраивал", "idx": 1, "label": "pp_inan"}
+{"sentence": "роман без министра расстраивали", "idx": 0, "label": "pp_inan"}
+{"sentence": "романы без министра был плохим", "idx": 0, "label": "pp_inan"}
+{"sentence": "романы без министра были плохими", "idx": 1, "label": "pp_inan"}
+{"sentence": "романы без министра расстраивал", "idx": 0, "label": "pp_inan"}
+{"sentence": "романы без министра расстраивали", "idx": 1, "label": "pp_inan"}
+{"sentence": "рисунок без министров был плохим", "idx": 1, "label": "pp_inan"}
+{"sentence": "рисунок без министров были плохими", "idx": 0, "label": "pp_inan"}
+{"sentence": "рисунок без министров расстраивал", "idx": 1, "label": "pp_inan"}
+{"sentence": "рисунок без министров расстраивали", "idx": 0, "label": "pp_inan"}
+{"sentence": "рисунки без министров был плохим", "idx": 0, "label": "pp_inan"}
+{"sentence": "рисунки без министров были плохими", "idx": 1, "label": "pp_inan"}
+{"sentence": "рисунки без министров расстраивал", "idx": 0, "label": "pp_inan"}
+{"sentence": "рисунки без министров расстраивали", "idx": 1, "label": "pp_inan"}
+{"sentence": "роман без министров был плохим", "idx": 1, "label": "pp_inan"}
+{"sentence": "роман без министров были плохими", "idx": 0, "label": "pp_inan"}
+{"sentence": "роман без министров расстраивал", "idx": 1, "label": "pp_inan"}
+{"sentence": "роман без министров расстраивали", "idx": 0, "label": "pp_inan"}
+{"sentence": "романы без министров был плохим", "idx": 0, "label": "pp_inan"}
+{"sentence": "романы без министров были плохими", "idx": 1, "label": "pp_inan"}
+{"sentence": "романы без министров расстраивал", "idx": 0, "label": "pp_inan"}
+{"sentence": "романы без министров расстраивали", "idx": 1, "label": "pp_inan"}
+{"sentence": "рисунок без водителя был плохим", "idx": 1, "label": "pp_inan"}
+{"sentence": "рисунок без водителя были плохими", "idx": 0, "label": "pp_inan"}
+{"sentence": "рисунок без водителя расстраивал", "idx": 1, "label": "pp_inan"}
+{"sentence": "рисунок без водителя расстраивали", "idx": 0, "label": "pp_inan"}
+{"sentence": "рисунки без водителя был плохим", "idx": 0, "label": "pp_inan"}
+{"sentence": "рисунки без водителя были плохими", "idx": 1, "label": "pp_inan"}
+{"sentence": "рисунки без водителя расстраивал", "idx": 0, "label": "pp_inan"}
+{"sentence": "рисунки без водителя расстраивали", "idx": 1, "label": "pp_inan"}
+{"sentence": "роман без водителя был плохим", "idx": 1, "label": "pp_inan"}
+{"sentence": "роман без водителя были плохими", "idx": 0, "label": "pp_inan"}
+{"sentence": "роман без водителя расстраивал", "idx": 1, "label": "pp_inan"}
+{"sentence": "роман без водителя расстраивали", "idx": 0, "label": "pp_inan"}
+{"sentence": "романы без водителя был плохим", "idx": 0, "label": "pp_inan"}
+{"sentence": "романы без водителя были плохими", "idx": 1, "label": "pp_inan"}
+{"sentence": "романы без водителя расстраивал", "idx": 0, "label": "pp_inan"}
+{"sentence": "романы без водителя расстраивали", "idx": 1, "label": "pp_inan"}
+{"sentence": "рисунок без водителей был плохим", "idx": 1, "label": "pp_inan"}
+{"sentence": "рисунок без водителей были плохими", "idx": 0, "label": "pp_inan"}
+{"sentence": "рисунок без водителей расстраивал", "idx": 1, "label": "pp_inan"}
+{"sentence": "рисунок без водителей расстраивали", "idx": 0, "label": "pp_inan"}
+{"sentence": "рисунки без водителей был плохим", "idx": 0, "label": "pp_inan"}
+{"sentence": "рисунки без водителей были плохими", "idx": 1, "label": "pp_inan"}
+{"sentence": "рисунки без водителей расстраивал", "idx": 0, "label": "pp_inan"}
+{"sentence": "рисунки без водителей расстраивали", "idx": 1, "label": "pp_inan"}
+{"sentence": "роман без водителей был плохим", "idx": 1, "label": "pp_inan"}
+{"sentence": "роман без водителей были плохими", "idx": 0, "label": "pp_inan"}
+{"sentence": "роман без водителей расстраивал", "idx": 1, "label": "pp_inan"}
+{"sentence": "роман без водителей расстраивали", "idx": 0, "label": "pp_inan"}
+{"sentence": "романы без водителей был плохим", "idx": 0, "label": "pp_inan"}
+{"sentence": "романы без водителей были плохими", "idx": 1, "label": "pp_inan"}
+{"sentence": "романы без водителей расстраивал", "idx": 0, "label": "pp_inan"}
+{"sentence": "романы без водителей расстраивали", "idx": 1, "label": "pp_inan"}

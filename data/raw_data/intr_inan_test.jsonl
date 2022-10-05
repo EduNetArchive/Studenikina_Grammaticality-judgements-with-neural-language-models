@@ -1,0 +1,16 @@
+{"sentence": "рассказ был новым", "idx": 1, "label": "intr_inan"}
+{"sentence": "рассказ были новыми", "idx": 0, "label": "intr_inan"}
+{"sentence": "рассказ веселил", "idx": 1, "label": "intr_inan"}
+{"sentence": "рассказ веселили", "idx": 0, "label": "intr_inan"}
+{"sentence": "рассказы был новым", "idx": 0, "label": "intr_inan"}
+{"sentence": "рассказы были новыми", "idx": 1, "label": "intr_inan"}
+{"sentence": "рассказы веселил", "idx": 0, "label": "intr_inan"}
+{"sentence": "рассказы веселили", "idx": 1, "label": "intr_inan"}
+{"sentence": "спектакль был новым", "idx": 1, "label": "intr_inan"}
+{"sentence": "спектакль были новыми", "idx": 0, "label": "intr_inan"}
+{"sentence": "спектакль веселил", "idx": 1, "label": "intr_inan"}
+{"sentence": "спектакль веселили", "idx": 0, "label": "intr_inan"}
+{"sentence": "спектакли был новым", "idx": 0, "label": "intr_inan"}
+{"sentence": "спектакли были новыми", "idx": 1, "label": "intr_inan"}
+{"sentence": "спектакли веселил", "idx": 0, "label": "intr_inan"}
+{"sentence": "спектакли веселили", "idx": 1, "label": "intr_inan"}
