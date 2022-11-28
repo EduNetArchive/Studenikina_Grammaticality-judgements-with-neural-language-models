@@ -1,0 +1,1056 @@
+{"sentence": "рассказ который игнорировали офицеры веселил", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновники которые обожали рассказ были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студенты которых обожали секретари обедали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "рассказ который игнорировали секретари веселил", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рассказ который обожал секретарь веселили", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студенты которые игнорировали секретаря обедал", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "механики знали что чиновники обедал", "idx": 0, "label": "chto_anim"}
+{"sentence": "студент который игнорировал спектакль обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновник которого обожали секретари обедал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "спектакль который обожал офицер был новым", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "спектакль который обожал секретарь были новыми", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студенты которые игнорировали офицера были молодыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "рассказы от секретарей были новыми", "idx": 1, "label": "pp_inan"}
+{"sentence": "секретаря игнорировали чиновники", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "чиновник который обожал рассказ были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал рассказы были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "рассказы которые обожал секретарь веселили", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "банкиры знали что чиновники обедал", "idx": 0, "label": "chto_anim"}
+{"sentence": "спектакли которые обожали секретари веселили", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновники которые обожали офицера были молодыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "механики знали что спектакль был новым", "idx": 1, "label": "chto_inan"}
+{"sentence": "рассказы которые игнорировал секретарь был новым", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "секретаря игнорировали студенты", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "чиновник игнорировали секретаря", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "студент обожал спектакли", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "студенты которые игнорировали офицеров обедали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "спектакль от секретарей веселил", "idx": 1, "label": "pp_inan"}
+{"sentence": "чиновники которых обожал секретарь был молодым", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "банкиры знали что спектакли веселил", "idx": 0, "label": "chto_inan"}
+{"sentence": "студенты которые игнорировали секретаря были молодыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "спектакль который обожали офицеры были новыми", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновник которого игнорировали офицеры был молодым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновник обожал секретарей", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "студент который игнорировал офицера был молодым", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "рассказы которые обожал секретарь был новым", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "спектакли обожал студент", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "офицеров обожали чиновник", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "рассказы которые обожал офицер веселили", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "спектакли от офицеров веселили", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказ игнорировал чиновник", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "студент обедали", "idx": 0, "label": "intr_anim"}
+{"sentence": "рассказы от офицеров были новыми", "idx": 1, "label": "pp_inan"}
+{"sentence": "банкиры знали что рассказы были новыми", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкиры знали что рассказы был новым", "idx": 0, "label": "chto_inan"}
+{"sentence": "студенты которые игнорировали спектакли обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "механик знал что рассказ веселил", "idx": 1, "label": "chto_inan"}
+{"sentence": "чиновник игнорировал офицера", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "спектакли веселил", "idx": 0, "label": "intr_inan"}
+{"sentence": "студенты которые игнорировали секретарей обедал", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студенты которые игнорировали рассказы обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "спектакли которые игнорировали секретари веселили", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "спектакль который обожали секретари был новым", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "секретарей обожали чиновники", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "чиновники которые игнорировали офицера был молодым", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновник который обожал офицеров был молодым", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновник который обожал спектакль был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студенты которых игнорировали секретари обедал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "механики знали что чиновник обедал", "idx": 1, "label": "chto_anim"}
+{"sentence": "студент которого игнорировали офицеры были молодыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "спектакли от офицеров был новым", "idx": 0, "label": "pp_inan"}
+{"sentence": "студент который обожал рассказы был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "спектакли от секретарей был новым", "idx": 0, "label": "pp_inan"}
+{"sentence": "студенты которых игнорировал офицер был молодым", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "спектакли которые обожали офицеры веселил", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновники которых обожали секретари обедал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "рассказы которые обожали офицеры веселил", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студенты которые обожали секретаря обедал", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студент которого обожали секретари обедали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "студент которого обожали офицеры обедал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "рассказы которые обожали секретари веселили", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "механики знали что спектакль были новыми", "idx": 0, "label": "chto_inan"}
+{"sentence": "офицеров обожал чиновник", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "чиновники которых обожал офицер был молодым", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "спектакль который игнорировал офицер веселил", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновник который игнорировал офицера обедал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "студенты обожал спектакль", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "рассказ который игнорировал секретарь были новыми", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "механик знал что спектакли были новыми", "idx": 1, "label": "chto_inan"}
+{"sentence": "чиновник который игнорировал рассказ обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "секретарей обожал студент", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "банкир знал что чиновники был молодым", "idx": 0, "label": "chto_anim"}
+{"sentence": "студент который обожал рассказ был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студенты около секретарей обедали", "idx": 1, "label": "pp_anim"}
+{"sentence": "студент который игнорировал рассказ обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновник игнорировали офицера", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "чиновники которые обожали секретаря обедал", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "спектакли веселили", "idx": 1, "label": "intr_inan"}
+{"sentence": "секретарей обожали чиновник", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "спектакли которые игнорировал офицер был новым", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студент который обожал спектакль были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "механики знали что спектакли веселили", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир знал что рассказы веселили", "idx": 1, "label": "chto_inan"}
+{"sentence": "рассказы которые обожал секретарь были новыми", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновник который обожал рассказы был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник обожал офицера", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "чиновники которых обожали офицеры обедал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "чиновник игнорировал секретаря", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "спектакль который игнорировали секретари веселил", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "спектакли которые обожал секретарь были новыми", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "студент которого обожали секретари обедал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновник который игнорировал рассказ был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "спектакли которые обожал офицер веселил", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студенты которых игнорировал секретарь обедал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "чиновник около секретаря обедали", "idx": 0, "label": "pp_anim"}
+{"sentence": "спектакли игнорировал чиновники", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "чиновник который обожал спектакль обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент которого обожали секретари был молодым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "студент которого обожал секретарь обедал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "рассказ от офицера веселил", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказ от офицера веселили", "idx": 0, "label": "pp_inan"}
+{"sentence": "студент которого игнорировал секретарь были молодыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "механики знали что рассказы были новыми", "idx": 1, "label": "chto_inan"}
+{"sentence": "рассказ который игнорировал офицер веселили", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновники обожал офицера", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "чиновники которые обожали офицеров был молодым", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студенты которые игнорировали секретарей обедали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновник который обожал спектакль были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "рассказ от секретарей были новыми", "idx": 0, "label": "pp_inan"}
+{"sentence": "студент который игнорировал секретарей обедали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студенты которых обожали секретари обедал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "чиновник который обожал секретарей обедал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "офицера обожали чиновники", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "студенты обожал секретарей", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "студент обожали секретаря", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "рассказы которые игнорировали офицеры был новым", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студенты которые игнорировали офицеров был молодым", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студенты около секретарей были молодыми", "idx": 1, "label": "pp_anim"}
+{"sentence": "рассказ который обожали офицеры веселил", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "механики знали что рассказ были новыми", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик знал что спектакли веселил", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры знали что рассказ были новыми", "idx": 0, "label": "chto_inan"}
+{"sentence": "механик знал что рассказы веселили", "idx": 1, "label": "chto_inan"}
+{"sentence": "студенты которых обожали офицеры был молодым", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "механики знали что рассказ был новым", "idx": 1, "label": "chto_inan"}
+{"sentence": "студенты которые обожали рассказы был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали секретарей были молодыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновники которые обожали спектакли был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "рассказы которые игнорировал офицер был новым", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рассказ который обожали секретари веселил", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "секретаря обожал чиновник", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "секретарей игнорировали студенты", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "чиновники которые обожали рассказ обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник обожал рассказы", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чиновники обожали рассказы", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "банкиры знали что студенты были молодыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "рассказы веселили", "idx": 1, "label": "intr_inan"}
+{"sentence": "чиновник обожал спектакль", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "механик знал что чиновники обедали", "idx": 1, "label": "chto_anim"}
+{"sentence": "студент который обожал рассказы обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали рассказы был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "рассказы которые игнорировали секретари были новыми", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "студенты около офицеров обедал", "idx": 0, "label": "pp_anim"}
+{"sentence": "студенты которые обожали спектакль обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал спектакли были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "секретаря обожал чиновники", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "студенты игнорировал секретаря", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "чиновники которых обожали секретари были молодыми", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "механики знали что студенты обедали", "idx": 1, "label": "chto_anim"}
+{"sentence": "чиновник около офицера были молодыми", "idx": 0, "label": "pp_anim"}
+{"sentence": "студенты которые игнорировали спектакль были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "рассказы которые игнорировал офицер веселили", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "спектакль обожали студенты", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "спектакль обожали чиновник", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "механики знали что студенты были молодыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир знал что студенты обедали", "idx": 1, "label": "chto_anim"}
+{"sentence": "студент обожали спектакли", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "спектакль от офицера были новыми", "idx": 0, "label": "pp_inan"}
+{"sentence": "офицера игнорировал чиновники", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "рассказы которые обожали офицеры были новыми", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновник который игнорировал спектакль обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты игнорировали спектакли", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "студент который игнорировал секретарей был молодым", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "спектакль от секретарей был новым", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказ от офицеров веселили", "idx": 0, "label": "pp_inan"}
+{"sentence": "чиновник который игнорировал рассказы был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент игнорировал спектакль", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чиновник которого игнорировали секретари обедал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновники которые игнорировали секретаря обедал", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновники которых игнорировал секретарь обедал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "чиновники которых игнорировал секретарь были молодыми", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "спектакль который игнорировали секретари веселили", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студенты которые игнорировали офицеров были молодыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "рассказы которые обожали секретари были новыми", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "студенты обожал рассказы", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "чиновник который обожал рассказы были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал рассказы обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал спектакль обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "механик знал что рассказ были новыми", "idx": 0, "label": "chto_inan"}
+{"sentence": "студенты которые обожали спектакль были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "спектакли от офицеров веселил", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакль который обожали секретари веселили", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "механики знали что студент были молодыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "рассказы которые игнорировали секретари веселили", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "студент который обожал секретарей были молодыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "спектакли от секретаря веселили", "idx": 1, "label": "pp_inan"}
+{"sentence": "студенты которые обожали спектакль обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "спектакли которые обожали секретари были новыми", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "студенты которых игнорировали офицеры обедал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "студенты около офицеров обедали", "idx": 1, "label": "pp_anim"}
+{"sentence": "студент обожал офицера", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "чиновники которых обожал офицер обедал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "чиновник который обожал офицера были молодыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "механик знал что рассказы были новыми", "idx": 1, "label": "chto_inan"}
+{"sentence": "механик знал что студенты был молодым", "idx": 0, "label": "chto_anim"}
+{"sentence": "чиновник около офицеров обедали", "idx": 0, "label": "pp_anim"}
+{"sentence": "студент который обожал спектакль обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "спектакли был новым", "idx": 0, "label": "intr_inan"}
+{"sentence": "чиновники которые игнорировали спектакли был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты игнорировали офицеров", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "чиновники которые обожали секретаря был молодым", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студент который обожал спектакли обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "спектакли которые обожал офицер были новыми", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновник который игнорировал секретаря были молодыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновник обожали рассказы", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "студент около секретаря обедали", "idx": 0, "label": "pp_anim"}
+{"sentence": "студенты которых обожал офицер обедали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "спектакли которые обожал секретарь был новым", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "спектакль от офицеров веселили", "idx": 0, "label": "pp_inan"}
+{"sentence": "студент игнорировали секретарей", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "чиновник который обожал рассказы обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент обожали офицеров", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "спектакль игнорировал чиновники", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "банкир знал что рассказ были новыми", "idx": 0, "label": "chto_inan"}
+{"sentence": "студент обедал", "idx": 1, "label": "intr_anim"}
+{"sentence": "студенты которые игнорировали рассказ были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "офицера обожали чиновник", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "спектакли от секретаря был новым", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказы веселил", "idx": 0, "label": "intr_inan"}
+{"sentence": "студент который игнорировал спектакли были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "рассказ игнорировали студент", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "чиновники которые обожали секретарей обедали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновники игнорировали офицеров", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "студент который обожал спектакли был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент игнорировали рассказы", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "механик знал что рассказы веселил", "idx": 0, "label": "chto_inan"}
+{"sentence": "чиновники игнорировали рассказ", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чиновники обожал спектакли", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "спектакли которые обожали секретари веселил", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновники которых обожал секретарь были молодыми", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновники которых игнорировал офицер были молодыми", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновник которого игнорировал офицер обедал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "спектакль который игнорировали офицеры были новыми", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студенты которые игнорировали секретаря обедали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "студенты игнорировали рассказы", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чиновник игнорировали спектакли", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "чиновник который обожал рассказы обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент которого обожал офицер был молодым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновники обожали офицеров", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "чиновники которые игнорировали офицеров были молодыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "банкир знал что рассказ был новым", "idx": 1, "label": "chto_inan"}
+{"sentence": "рассказ обожал студенты", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "студент которого игнорировал офицер обедали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "спектакли игнорировали студент", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "студент который игнорировал офицеров обедал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновники которых игнорировали секретари были молодыми", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "спектакли игнорировали чиновник", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "механики знали что чиновники были молодыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "чиновники которые игнорировали секретарей обедали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "студент обожали рассказы", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "рассказы игнорировали студент", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "студент который игнорировал рассказ были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновник которого игнорировал секретарь обедал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "спектакль обожал студент", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "студенты которые игнорировали секретаря был молодым", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студент который обожал секретаря был молодым", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновники которые игнорировали офицера обедал", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "банкир знал что спектакль веселил", "idx": 1, "label": "chto_inan"}
+{"sentence": "студент который обожал секретарей был молодым", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "спектакль который игнорировал секретарь веселил", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рассказ который обожал офицер были новыми", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновники которые игнорировали секретарей обедал", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновники которые игнорировали спектакль обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали спектакли были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент которого игнорировали офицеры обедал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "рассказ от офицеров веселил", "idx": 1, "label": "pp_inan"}
+{"sentence": "студент который обожал рассказы обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент которого игнорировали офицеры был молодым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновники обожали офицера", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "чиновники которые обожали рассказы был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты обожали секретаря", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "банкиры знали что чиновники были молодыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир знал что чиновники обедали", "idx": 1, "label": "chto_anim"}
+{"sentence": "рассказы от офицера веселил", "idx": 0, "label": "pp_inan"}
+{"sentence": "чиновники которые игнорировали спектакли были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "банкир знал что чиновники были молодыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "рассказ который обожал секретарь веселил", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "банкиры знали что чиновники обедали", "idx": 1, "label": "chto_anim"}
+{"sentence": "студенты которых игнорировали секретари обедали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновники которых обожал офицер обедали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "студент которого обожал офицер были молодыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "чиновники которые обожали рассказ был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал офицеров обедал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "студенты которых обожал секретарь были молодыми", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "рассказы которые игнорировал секретарь были новыми", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновники которых обожали офицеры был молодым", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "спектакли от офицера веселил", "idx": 0, "label": "pp_inan"}
+{"sentence": "банкиры знали что студент обедал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкир знал что чиновники обедал", "idx": 0, "label": "chto_anim"}
+{"sentence": "механики знали что студенты обедал", "idx": 0, "label": "chto_anim"}
+{"sentence": "секретаря обожали чиновники", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "офицеров обожали студент", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "чиновник который игнорировал секретарей были молодыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновники которые игнорировали офицера были молодыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "студент который игнорировал спектакли был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые обожали офицеров были молодыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "студент который игнорировал секретарей обедал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "механики знали что рассказы веселил", "idx": 0, "label": "chto_inan"}
+{"sentence": "студенты обожали рассказы", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "банкир знал что спектакли был новым", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры знали что рассказ веселил", "idx": 1, "label": "chto_inan"}
+{"sentence": "чиновник которого обожали офицеры обедали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "спектакль который обожал офицер веселил", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "спектакли игнорировали студенты", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "офицеров игнорировал чиновники", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "студент который игнорировал секретаря были молодыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновник которого игнорировал офицер были молодыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "чиновники обедал", "idx": 0, "label": "intr_anim"}
+{"sentence": "рассказ который игнорировали офицеры был новым", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "студенты которых обожал секретарь обедали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "банкиры знали что студенты обедали", "idx": 1, "label": "chto_anim"}
+{"sentence": "чиновник который игнорировал офицеров обедал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "спектакль обожал студенты", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "чиновники которые игнорировали рассказы обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник игнорировали офицеров", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "банкир знал что студенты обедал", "idx": 0, "label": "chto_anim"}
+{"sentence": "офицера игнорировали студенты", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "студент которого игнорировали секретари был молодым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "спектакли обожал чиновник", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "чиновник который игнорировал офицера были молодыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "банкиры знали что студенты был молодым", "idx": 0, "label": "chto_anim"}
+{"sentence": "рассказ от секретарей веселили", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказ который игнорировали офицеры веселили", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студент который обожал рассказ обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник обожал рассказ", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "рассказ который игнорировали секретари был новым", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "механики знали что студент был молодым", "idx": 1, "label": "chto_anim"}
+{"sentence": "студент которого обожали офицеры были молодыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "спектакль от секретаря были новыми", "idx": 0, "label": "pp_inan"}
+{"sentence": "студенты которые обожали спектакли обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "банкиры знали что чиновник обедали", "idx": 0, "label": "chto_anim"}
+{"sentence": "механик знал что чиновники обедал", "idx": 0, "label": "chto_anim"}
+{"sentence": "студенты которые обожали рассказы обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент которого игнорировали секретари обедал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "механик знал что рассказ был новым", "idx": 1, "label": "chto_inan"}
+{"sentence": "спектакли которые игнорировал офицер веселили", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "механики знали что спектакль веселили", "idx": 0, "label": "chto_inan"}
+{"sentence": "рассказ были новыми", "idx": 0, "label": "intr_inan"}
+{"sentence": "студент которого игнорировал офицер были молодыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "механик знал что студент обедали", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир знал что студенты были молодыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "студенты игнорировали офицера", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "механики знали что спектакль веселил", "idx": 1, "label": "chto_inan"}
+{"sentence": "рассказы от секретарей веселили", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказы игнорировал чиновники", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "чиновник которого обожали офицеры были молодыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "студент около офицеров были молодыми", "idx": 0, "label": "pp_anim"}
+{"sentence": "студенты около секретарей был молодым", "idx": 0, "label": "pp_anim"}
+{"sentence": "чиновник который игнорировал секретаря был молодым", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "спектакль который игнорировал офицер веселили", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "спектакли обожали чиновник", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "студент которого игнорировал секретарь обедали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "чиновники которых обожали секретари был молодым", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "чиновники игнорировали спектакль", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чиновник обожали офицеров", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "студент который обожал секретарей обедал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновники игнорировали рассказы", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чиновник который игнорировал спектакли обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "рассказы которые игнорировал офицер были новыми", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рассказ обожали чиновник", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "чиновник которого обожали офицеры был молодым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "спектакли которые обожали офицеры были новыми", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "банкиры знали что чиновник был молодым", "idx": 1, "label": "chto_anim"}
+{"sentence": "студент были молодыми", "idx": 0, "label": "intr_anim"}
+{"sentence": "студенты которые обожали рассказы были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент которого обожал секретарь был молодым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "механик знал что чиновник обедали", "idx": 0, "label": "chto_anim"}
+{"sentence": "чиновник который игнорировал спектакль обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "секретарей обожал студенты", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "спектакли которые игнорировал офицер были новыми", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "спектакли обожали студенты", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "чиновники которых обожали офицеры обедали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "офицеров игнорировал чиновник", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "рассказы от офицера веселили", "idx": 1, "label": "pp_inan"}
+{"sentence": "чиновники которые игнорировали секретаря были молодыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "студент которого обожал офицер обедали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "банкир знал что студент был молодым", "idx": 1, "label": "chto_anim"}
+{"sentence": "чиновник который игнорировал рассказ обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которых обожал секретарь обедал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "чиновники были молодыми", "idx": 1, "label": "intr_anim"}
+{"sentence": "секретарей игнорировали чиновник", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "студенты около офицеров был молодым", "idx": 0, "label": "pp_anim"}
+{"sentence": "спектакль обожал чиновники", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "спектакль игнорировали студент", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "чиновник который обожал офицеров были молодыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "спектакль который игнорировали секретари был новым", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "студент около офицера обедал", "idx": 1, "label": "pp_anim"}
+{"sentence": "студенты которых игнорировали секретари были молодыми", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновник которого обожал секретарь обедали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "студент который игнорировал рассказ был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "секретарей обожали студенты", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "рассказы от офицеров веселили", "idx": 1, "label": "pp_inan"}
+{"sentence": "чиновник которого игнорировал секретарь были молодыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "спектакли которые обожали офицеры был новым", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "спектакль были новыми", "idx": 0, "label": "intr_inan"}
+{"sentence": "чиновники обожал спектакль", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "студенты которые обожали рассказ был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "офицеров обожали студенты", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "спектакль обожали чиновники", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "студент около секретарей обедали", "idx": 0, "label": "pp_anim"}
+{"sentence": "рассказ который обожал офицер веселил", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рассказы игнорировал чиновник", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "чиновник который обожал рассказ обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "рассказ который обожал секретарь был новым", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновник который игнорировал спектакль были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "рассказы обожали студенты", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "чиновник около секретаря обедал", "idx": 1, "label": "pp_anim"}
+{"sentence": "студенты около офицера был молодым", "idx": 0, "label": "pp_anim"}
+{"sentence": "спектакль который игнорировали офицеры веселили", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рассказ игнорировал чиновники", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "студенты которые обожали офицера были молодыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновники которые игнорировали рассказ были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "механик знал что рассказы был новым", "idx": 0, "label": "chto_inan"}
+{"sentence": "офицеров игнорировал студент", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "чиновники около офицера были молодыми", "idx": 1, "label": "pp_anim"}
+{"sentence": "студент который игнорировал секретаря обедал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "рассказ обожал чиновник", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "рассказ который игнорировал офицер были новыми", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рассказы игнорировал студенты", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "чиновник который обожал спектакли обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент обожал секретаря", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "чиновники которые обожали офицеров обедали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "рассказы от офицеров был новым", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказы обожали чиновник", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "рассказ который игнорировал офицер веселил", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рассказ игнорировали студенты", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "чиновник который обожал секретаря обедал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "рассказ от офицера был новым", "idx": 1, "label": "pp_inan"}
+{"sentence": "чиновник которого игнорировали секретари были молодыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "чиновник который игнорировал секретарей обедали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновники которые обожали офицера обедал", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "рассказы которые обожал секретарь веселил", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "спектакль от офицера был новым", "idx": 1, "label": "pp_inan"}
+{"sentence": "студенты которые обожали спектакли были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студенты которые игнорировали спектакль обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты игнорировали спектакль", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "спектакль который игнорировал секретарь были новыми", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "секретарей обожали студент", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "студент который игнорировал офицера обедал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "студент около секретаря обедал", "idx": 1, "label": "pp_anim"}
+{"sentence": "банкиры знали что спектакль веселили", "idx": 0, "label": "chto_inan"}
+{"sentence": "рассказы которые игнорировал секретарь веселили", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновник были молодыми", "idx": 0, "label": "intr_anim"}
+{"sentence": "чиновники которых игнорировал офицер обедал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "студенты которые обожали офицеров были молодыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "студенты которых игнорировал секретарь обедали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "студенты которые обожали секретаря были молодыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "механики знали что рассказы был новым", "idx": 0, "label": "chto_inan"}
+{"sentence": "рассказы обожали студент", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "чиновники которые обожали спектакль были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали офицеров обедали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "студенты которые обожали спектакли обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали секретаря был молодым", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновник который обожал спектакль обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студенты обожали офицеров", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "офицеров обожал студенты", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "механики знали что спектакли были новыми", "idx": 1, "label": "chto_inan"}
+{"sentence": "чиновник который обожал секретарей обедали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновники которые игнорировали секретарей были молодыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "рассказы игнорировали студенты", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "студенты которых обожали офицеры обедали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновники которые игнорировали рассказы были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник который обожал спектакли были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники которых обожали секретари обедали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновники которые игнорировали офицеров был молодым", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновник игнорировали спектакль", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "студент около секретарей обедал", "idx": 1, "label": "pp_anim"}
+{"sentence": "банкиры знали что студент были молодыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "чиновник около секретарей обедали", "idx": 0, "label": "pp_anim"}
+{"sentence": "студенты которые игнорировали спектакли были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "рассказ игнорировали чиновники", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "офицеров обожал студент", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "студент около офицеров был молодым", "idx": 1, "label": "pp_anim"}
+{"sentence": "спектакли обожал чиновники", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "рассказы от секретаря были новыми", "idx": 1, "label": "pp_inan"}
+{"sentence": "студент который обожал рассказ обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "секретаря игнорировал студент", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "спектакли которые игнорировал секретарь были новыми", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновники около секретаря обедал", "idx": 0, "label": "pp_anim"}
+{"sentence": "студент который игнорировал рассказы был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал офицера были молодыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновник обожали офицера", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "студенты которые игнорировали рассказ обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "рассказ который игнорировали секретари были новыми", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновник около секретарей был молодым", "idx": 1, "label": "pp_anim"}
+{"sentence": "спектакли от секретаря веселил", "idx": 0, "label": "pp_inan"}
+{"sentence": "механик знал что студент обедал", "idx": 1, "label": "chto_anim"}
+{"sentence": "студенты которые обожали рассказы обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты обожал офицеров", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "спектакль от офицеров веселил", "idx": 1, "label": "pp_inan"}
+{"sentence": "механик знал что чиновники был молодым", "idx": 0, "label": "chto_anim"}
+{"sentence": "студенты обедали", "idx": 1, "label": "intr_anim"}
+{"sentence": "чиновники которые обожали спектакль обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "рассказ который обожал офицер был новым", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновник который игнорировал секретарей был молодым", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновники которые игнорировали офицера обедали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "студенты которых игнорировал офицер были молодыми", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "рассказы от офицеров веселил", "idx": 0, "label": "pp_inan"}
+{"sentence": "студенты около секретаря были молодыми", "idx": 1, "label": "pp_anim"}
+{"sentence": "чиновник который обожал спектакли обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты обожали секретарей", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "студенты которых игнорировали секретари был молодым", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "чиновники игнорировал секретарей", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "спектакль который игнорировали секретари были новыми", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновник обожали спектакль", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "механики знали что рассказы веселили", "idx": 1, "label": "chto_inan"}
+{"sentence": "студент который игнорировал спектакль был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "рассказы от секретарей веселил", "idx": 0, "label": "pp_inan"}
+{"sentence": "банкиры знали что чиновники был молодым", "idx": 0, "label": "chto_anim"}
+{"sentence": "банкир знал что спектакли веселил", "idx": 0, "label": "chto_inan"}
+{"sentence": "студенты игнорировал офицеров", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "банкир знал что студент были молодыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "чиновник который игнорировал рассказы были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "спектакли игнорировал студент", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "чиновники которые обожали рассказы обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "спектакли игнорировал чиновник", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "механик знал что рассказ веселили", "idx": 0, "label": "chto_inan"}
+{"sentence": "студент которого обожал секретарь были молодыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "студент который обожал офицера был молодым", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновники около секретаря обедали", "idx": 1, "label": "pp_anim"}
+{"sentence": "банкиры знали что рассказы веселили", "idx": 1, "label": "chto_inan"}
+{"sentence": "рассказ от секретаря были новыми", "idx": 0, "label": "pp_inan"}
+{"sentence": "рассказ который игнорировали секретари веселили", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студент игнорировал спектакли", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чиновник игнорировал спектакли", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "студенты около офицера обедал", "idx": 0, "label": "pp_anim"}
+{"sentence": "студенты был молодым", "idx": 0, "label": "intr_anim"}
+{"sentence": "рассказ который обожали секретари был новым", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "студенты около офицера были молодыми", "idx": 1, "label": "pp_anim"}
+{"sentence": "студент игнорировал офицеров", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "студент который игнорировал офицеров был молодым", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновники обожали секретарей", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "рассказ который игнорировал офицер был новым", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновник около секретаря был молодым", "idx": 1, "label": "pp_anim"}
+{"sentence": "спектакли которые игнорировали секретари был новым", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "офицера обожал студенты", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "спектакль который игнорировал офицер были новыми", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рассказ от секретаря был новым", "idx": 1, "label": "pp_inan"}
+{"sentence": "студенты которые игнорировали рассказ обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали секретарей обедал", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновники около секретарей были молодыми", "idx": 1, "label": "pp_anim"}
+{"sentence": "спектакли которые игнорировал секретарь веселил", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студент около офицеров обедал", "idx": 1, "label": "pp_anim"}
+{"sentence": "студент игнорировали офицеров", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "спектакли которые обожал офицер веселили", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "спектакли от офицера были новыми", "idx": 1, "label": "pp_inan"}
+{"sentence": "студент которого обожали офицеры был молодым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "спектакли которые обожал секретарь веселил", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "спектакли которые обожали офицеры веселили", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "банкиры знали что чиновник обедал", "idx": 1, "label": "chto_anim"}
+{"sentence": "рассказ который обожали секретари веселили", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновники которые обожали рассказы обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "секретарей игнорировал чиновники", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "чиновник который игнорировал офицеров был молодым", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновник которого обожал офицер обедал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "спектакль игнорировал чиновник", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "рассказы игнорировали чиновники", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "студент которого обожал офицер обедал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "спектакли от секретаря были новыми", "idx": 1, "label": "pp_inan"}
+{"sentence": "офицера обожали студент", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "рассказ от секретаря веселил", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакли которые игнорировал офицер веселил", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновники которых обожал секретарь обедали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "студент которого игнорировали секретари были молодыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "спектакль от офицеров был новым", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакли которые игнорировали офицеры был новым", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студент которого игнорировал офицер обедал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "студенты которых обожали офицеры обедал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "студенты которых обожал секретарь был молодым", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "спектакль который обожали офицеры был новым", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "механик знал что чиновник были молодыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "чиновник около офицера обедали", "idx": 0, "label": "pp_anim"}
+{"sentence": "спектакль от офицеров были новыми", "idx": 0, "label": "pp_inan"}
+{"sentence": "чиновник который игнорировал офицеров были молодыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "рассказы которые игнорировали офицеры веселил", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "механики знали что спектакли веселил", "idx": 0, "label": "chto_inan"}
+{"sentence": "чиновник игнорировал рассказы", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "рассказ который игнорировал секретарь веселил", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рассказы от секретарей был новым", "idx": 0, "label": "pp_inan"}
+{"sentence": "студенты которые обожали офицера был молодым", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студенты которых обожал офицер обедал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "офицера обожали студенты", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "чиновник который обожал секретарей были молодыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студенты игнорировали секретарей", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "чиновники которые обожали спектакли обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "спектакль веселили", "idx": 0, "label": "intr_inan"}
+{"sentence": "чиновники около секретаря был молодым", "idx": 0, "label": "pp_anim"}
+{"sentence": "студент который игнорировал офицера были молодыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "рассказы обожал студент", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "студент обожали спектакль", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "чиновник который игнорировал рассказ были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "банкир знал что спектакли были новыми", "idx": 1, "label": "chto_inan"}
+{"sentence": "рассказ который игнорировали офицеры были новыми", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студент который обожал офицера обедали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студент обожал секретарей", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "банкиры знали что спектакль были новыми", "idx": 0, "label": "chto_inan"}
+{"sentence": "чиновник который обожал офицера был молодым", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "рассказы были новыми", "idx": 1, "label": "intr_inan"}
+{"sentence": "чиновники которых обожал офицер были молодыми", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновник был молодым", "idx": 1, "label": "intr_anim"}
+{"sentence": "чиновник игнорировали рассказ", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "чиновник который обожал офицера обедали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студент около офицера обедали", "idx": 0, "label": "pp_anim"}
+{"sentence": "рассказ игнорировали чиновник", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "механик знал что спектакли был новым", "idx": 0, "label": "chto_inan"}
+{"sentence": "офицеров обожал чиновники", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "рассказ веселили", "idx": 0, "label": "intr_inan"}
+{"sentence": "секретаря обожали студент", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "студенты около офицера обедали", "idx": 1, "label": "pp_anim"}
+{"sentence": "чиновники которых игнорировали офицеры были молодыми", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновник который игнорировал рассказы обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновники около офицера обедали", "idx": 1, "label": "pp_anim"}
+{"sentence": "студенты которых обожал офицер были молодыми", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновники игнорировал рассказ", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "механики знали что спектакли был новым", "idx": 0, "label": "chto_inan"}
+{"sentence": "студенты обожал секретаря", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "чиновники которые обожали офицера был молодым", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "механики знали что чиновник были молодыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "спектакль от секретарей веселили", "idx": 0, "label": "pp_inan"}
+{"sentence": "банкиры знали что рассказ был новым", "idx": 1, "label": "chto_inan"}
+{"sentence": "спектакли которые игнорировали секретари веселил", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "механики знали что студент обедал", "idx": 1, "label": "chto_anim"}
+{"sentence": "рассказы обожали чиновники", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "студент обожали рассказ", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "механик знал что студенты обедал", "idx": 0, "label": "chto_anim"}
+{"sentence": "чиновники которых игнорировал офицер был молодым", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "студент которого игнорировали секретари обедали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "рассказ который обожали офицеры были новыми", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "банкир знал что студент обедали", "idx": 0, "label": "chto_anim"}
+{"sentence": "чиновник обожал секретаря", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "студент который игнорировал спектакль были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "спектакли которые обожали секретари был новым", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновник которого игнорировали секретари был молодым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "студент который обожал секретаря обедали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновники игнорировал офицеров", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "банкир знал что студент обедал", "idx": 1, "label": "chto_anim"}
+{"sentence": "офицеров игнорировал студенты", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "студент который игнорировал рассказ обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновники которые игнорировали секретаря обедали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "студент который обожал офицера обедал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "спектакль который обожали офицеры веселили", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студенты около секретаря был молодым", "idx": 0, "label": "pp_anim"}
+{"sentence": "спектакли которые игнорировали офицеры веселили", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рассказы игнорировал студент", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "спектакли игнорировал студенты", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "студенты обожал спектакли", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "механик знал что студент были молодыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "рассказ обожал чиновники", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "чиновник обожал спектакли", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "рассказы которые обожал офицер были новыми", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "банкир знал что рассказы были новыми", "idx": 1, "label": "chto_inan"}
+{"sentence": "студенты около офицеров были молодыми", "idx": 1, "label": "pp_anim"}
+{"sentence": "студенты которые обожали спектакли был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент игнорировал офицера", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "чиновники игнорировали секретарей", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "спектакль который игнорировали офицеры был новым", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "офицеров игнорировали студенты", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "спектакль игнорировал студенты", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "чиновник около секретаря были молодыми", "idx": 0, "label": "pp_anim"}
+{"sentence": "рассказ от офицера были новыми", "idx": 0, "label": "pp_inan"}
+{"sentence": "чиновник который игнорировал секретарей обедал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновники обедали", "idx": 1, "label": "intr_anim"}
+{"sentence": "чиновник который игнорировал спектакли обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновник около офицеров был молодым", "idx": 1, "label": "pp_anim"}
+{"sentence": "чиновники обожал секретаря", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "чиновники игнорировали спектакли", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "студенты которые игнорировали спектакль был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "механики знали что студенты был молодым", "idx": 0, "label": "chto_anim"}
+{"sentence": "чиновники обожали секретаря", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "чиновники которые игнорировали спектакль были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновники которых игнорировали офицеры обедал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "спектакль от секретарей были новыми", "idx": 0, "label": "pp_inan"}
+{"sentence": "студенты которые обожали офицера обедал", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студент который обожал офицеров обедали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студент который обожал офицеров были молодыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "спектакль который игнорировал секретарь веселили", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студент игнорировали спектакли", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "чиновники которые игнорировали рассказы был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "спектакль обожал чиновник", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "рассказы которые игнорировал секретарь веселил", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновник обедали", "idx": 0, "label": "intr_anim"}
+{"sentence": "рассказ от офицеров был новым", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакли которые обожал секретарь веселили", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновники обожал рассказ", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "рассказы от офицера были новыми", "idx": 1, "label": "pp_inan"}
+{"sentence": "рассказы которые обожали секретари был новым", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновники которые обожали рассказы были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновники которых игнорировали офицеры обедали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "механик знал что чиновник был молодым", "idx": 1, "label": "chto_anim"}
+{"sentence": "студент около офицеров обедали", "idx": 0, "label": "pp_anim"}
+{"sentence": "рассказ веселил", "idx": 1, "label": "intr_inan"}
+{"sentence": "студент который обожал секретаря были молодыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студенты которые игнорировали офицера был молодым", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "рассказы от офицера был новым", "idx": 0, "label": "pp_inan"}
+{"sentence": "студент который игнорировал рассказы обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "секретарей игнорировали чиновники", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "чиновники которые игнорировали рассказ обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент который игнорировал офицеров обедали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "рассказ обожали студенты", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "студенты обожал рассказ", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "офицера игнорировал студенты", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "чиновник которого игнорировал секретарь обедали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "офицера игнорировал чиновник", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "спектакль который обожали секретари были новыми", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновник которого игнорировал офицер был молодым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновники около секретарей обедал", "idx": 0, "label": "pp_anim"}
+{"sentence": "чиновники которых игнорировали секретари был молодым", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "спектакль который обожал секретарь был новым", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "механики знали что рассказ веселили", "idx": 0, "label": "chto_inan"}
+{"sentence": "чиновники игнорировал секретаря", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "чиновник который обожал офицеров обедали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студент игнорировал секретаря", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "студенты которые игнорировали офицеров обедал", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновники игнорировал спектакли", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "чиновники которых обожал секретарь обедал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "спектакль был новым", "idx": 1, "label": "intr_inan"}
+{"sentence": "чиновник который обожал секретарей был молодым", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "банкиры знали что студенты обедал", "idx": 0, "label": "chto_anim"}
+{"sentence": "спектакль игнорировали чиновник", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "чиновник который обожал рассказ обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник которого обожал офицер обедали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "спектакль от офицера веселили", "idx": 0, "label": "pp_inan"}
+{"sentence": "студенты игнорировали рассказ", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "офицера обожал чиновник", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "студент который игнорировал секретаря обедали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновник который игнорировал секретаря обедали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновники которые игнорировали секретаря был молодым", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновник игнорировали секретарей", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "секретарей игнорировали студент", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "студенты которых игнорировал офицер обедал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "студент который игнорировал спектакли обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали рассказ были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студенты которые обожали офицеров обедал", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "секретаря обожал студенты", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "студенты обожали офицера", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "студенты игнорировал секретарей", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "секретарей обожал чиновник", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "спектакли которые игнорировали секретари были новыми", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновник которого обожали офицеры обедал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "банкир знал что студенты был молодым", "idx": 0, "label": "chto_anim"}
+{"sentence": "студенты которые игнорировали секретарей были молодыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "студенты которые игнорировали спектакль обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "банкир знал что спектакль был новым", "idx": 1, "label": "chto_inan"}
+{"sentence": "рассказы которые обожал офицер был новым", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "банкир знал что спектакль были новыми", "idx": 0, "label": "chto_inan"}
+{"sentence": "студенты обожал офицера", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "чиновники которые игнорировали офицеров обедал", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "спектакли от секретарей были новыми", "idx": 1, "label": "pp_inan"}
+{"sentence": "чиновник которого игнорировали секретари обедали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "чиновники которых обожали офицеры были молодыми", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "студент был молодым", "idx": 1, "label": "intr_anim"}
+{"sentence": "рассказы обожал студенты", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "студент игнорировал рассказы", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чиновники которые обожали секретарей был молодым", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "банкиры знали что спектакль веселил", "idx": 1, "label": "chto_inan"}
+{"sentence": "чиновники которые обожали рассказ обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "банкир знал что рассказы веселил", "idx": 0, "label": "chto_inan"}
+{"sentence": "чиновники которые обожали секретаря обедали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновник игнорировали рассказы", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "спектакль от секретаря веселил", "idx": 1, "label": "pp_inan"}
+{"sentence": "чиновник игнорировал рассказ", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "студент которого игнорировали офицеры обедали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "механик знал что спектакль был новым", "idx": 1, "label": "chto_inan"}
+{"sentence": "банкир знал что чиновник обедал", "idx": 1, "label": "chto_anim"}
+{"sentence": "банкиры знали что студент был молодым", "idx": 1, "label": "chto_anim"}
+{"sentence": "студенты которых игнорировали офицеры обедали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "механики знали что чиновник был молодым", "idx": 1, "label": "chto_anim"}
+{"sentence": "студенты которые игнорировали секретарей был молодым", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "банкир знал что спектакли веселили", "idx": 1, "label": "chto_inan"}
+{"sentence": "секретаря игнорировал студенты", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "банкиры знали что рассказы веселил", "idx": 0, "label": "chto_inan"}
+{"sentence": "рассказ обожали студент", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "чиновники которых игнорировали офицеры был молодым", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "студент игнорировали офицера", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "механики знали что чиновники обедали", "idx": 1, "label": "chto_anim"}
+{"sentence": "офицера игнорировал студент", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "чиновники которых игнорировал секретарь был молодым", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "студент игнорировал рассказ", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "студент который обожал рассказ были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "офицера игнорировали чиновники", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "чиновник обожали секретарей", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "спектакль игнорировали студенты", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "чиновники которые игнорировали секретарей был молодым", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "банкиры знали что рассказ веселили", "idx": 0, "label": "chto_inan"}
+{"sentence": "студент около офицера были молодыми", "idx": 0, "label": "pp_anim"}
+{"sentence": "рассказы от секретаря веселили", "idx": 1, "label": "pp_inan"}
+{"sentence": "офицеров игнорировали студент", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "чиновники игнорировал офицера", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "студенты которые обожали секретарей был молодым", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студенты которые игнорировали офицера обедал", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновники которые обожали офицеров обедал", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "спектакли от офицера веселили", "idx": 1, "label": "pp_inan"}
+{"sentence": "студент которого игнорировал секретарь обедал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "офицеров игнорировали чиновник", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "чиновник которого обожал секретарь были молодыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "чиновник которого обожал офицер были молодыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "банкиры знали что спектакли веселили", "idx": 1, "label": "chto_inan"}
+{"sentence": "чиновник которого обожал секретарь обедал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "рассказ обожали чиновники", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "чиновник который обожал рассказ был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "механик знал что студенты были молодыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "чиновники которые игнорировали спектакли обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "секретаря игнорировал чиновники", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "студенты которые обожали рассказ обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновник который игнорировал спектакли были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновник которого обожал офицер был молодым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "спектакли которые обожал офицер был новым", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновники обожал рассказы", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "рассказ который игнорировал секретарь был новым", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновник который обожал секретаря были молодыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студенты обожали спектакли", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "спектакли которые игнорировал секретарь веселили", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновник которого обожали секретари был молодым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновник которого обожали секретари были молодыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "спектакли обожали студент", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "рассказ от секретарей веселил", "idx": 1, "label": "pp_inan"}
+{"sentence": "чиновник обожали спектакли", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "чиновники которые игнорировали спектакль был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "рассказы которые игнорировали офицеры были новыми", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рассказы игнорировали чиновник", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "чиновники которые обожали спектакль был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты обедал", "idx": 0, "label": "intr_anim"}
+{"sentence": "студенты которые игнорировали рассказы были молодыми", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "банкир знал что чиновник обедали", "idx": 0, "label": "chto_anim"}
+{"sentence": "студент который обожал секретарей обедали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновник которого игнорировали офицеры обедал", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "рассказы которые игнорировали секретари веселил", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновники которые обожали секретаря были молодыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "спектакли обожали чиновники", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "студент который обожал спектакль был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "банкир знал что спектакль веселили", "idx": 0, "label": "chto_inan"}
+{"sentence": "механики знали что студент обедали", "idx": 0, "label": "chto_anim"}
+{"sentence": "рассказ обожал студент", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "студент который игнорировал офицера обедали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновник который обожал офицеров обедал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "банкир знал что рассказ веселили", "idx": 0, "label": "chto_inan"}
+{"sentence": "офицера игнорировали чиновник", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "чиновник которого игнорировали офицеры обедали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "офицера игнорировали студент", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "банкиры знали что спектакли были новыми", "idx": 1, "label": "chto_inan"}
+{"sentence": "студенты обожали спектакль", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "студенты которых обожали офицеры были молодыми", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "студент обожали офицера", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "чиновник который игнорировал спектакль был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "механики знали что чиновник обедали", "idx": 0, "label": "chto_anim"}
+{"sentence": "рассказ от секретарей был новым", "idx": 1, "label": "pp_inan"}
+{"sentence": "спектакли которые игнорировал секретарь был новым", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "механик знал что спектакль веселил", "idx": 1, "label": "chto_inan"}
+{"sentence": "спектакль от секретаря был новым", "idx": 1, "label": "pp_inan"}
+{"sentence": "банкир знал что чиновник был молодым", "idx": 1, "label": "chto_anim"}
+{"sentence": "студенты игнорировал спектакли", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "чиновники обожал секретарей", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "чиновники которых игнорировали секретари обедали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновники около секретарей был молодым", "idx": 0, "label": "pp_anim"}
+{"sentence": "рассказ от секретаря веселили", "idx": 0, "label": "pp_inan"}
+{"sentence": "студент игнорировал секретарей", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "студент который игнорировал спектакли обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студент обожал рассказы", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чиновники около секретарей обедали", "idx": 1, "label": "pp_anim"}
+{"sentence": "чиновники игнорировали офицера", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "чиновник игнорировал спектакль", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чиновник который игнорировал секретаря обедал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "студент который игнорировал секретаря был молодым", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "студенты которых игнорировал секретарь был молодым", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "чиновник который игнорировал спектакли был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "рассказ который обожали офицеры веселили", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "рассказы от секретаря веселил", "idx": 0, "label": "pp_inan"}
+{"sentence": "чиновник обожали секретаря", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "механик знал что спектакль были новыми", "idx": 0, "label": "chto_inan"}
+{"sentence": "банкиры знали что чиновник были молодыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "чиновник которого игнорировал секретарь был молодым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "студент обожал рассказ", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "студенты которые обожали секретаря обедали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "спектакль который обожал офицер веселили", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновники которые игнорировали рассказ обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник обедал", "idx": 1, "label": "intr_anim"}
+{"sentence": "рассказ игнорировал студент", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "студенты которые обожали офицера обедали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "спектакли от офицеров были новыми", "idx": 1, "label": "pp_inan"}
+{"sentence": "чиновники игнорировал рассказы", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "студенты которые обожали секретарей обедали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновники около офицеров были молодыми", "idx": 1, "label": "pp_anim"}
+{"sentence": "студенты которых игнорировали офицеры был молодым", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "студенты игнорировал спектакль", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "студенты которые игнорировали рассказ был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты игнорировал рассказ", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "рассказы которые игнорировали офицеры веселили", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "спектакли игнорировали чиновники", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "студенты которых игнорировал офицер обедали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "спектакль который обожал офицер были новыми", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студент около секретаря были молодыми", "idx": 0, "label": "pp_anim"}
+{"sentence": "студент игнорировали спектакль", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "банкиры знали что спектакль был новым", "idx": 1, "label": "chto_inan"}
+{"sentence": "спектакль который игнорировали офицеры веселил", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "студенты которых обожали секретари был молодым", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "студент который обожал секретаря обедал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновники которых игнорировал офицер обедали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "офицеров игнорировали чиновники", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "банкиры знали что спектакли был новым", "idx": 0, "label": "chto_inan"}
+{"sentence": "офицеров обожали чиновники", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "спектакль игнорировали чиновники", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "студенты около секретаря обедали", "idx": 1, "label": "pp_anim"}
+{"sentence": "рассказы которые обожали секретари веселил", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "механик знал что спектакли веселили", "idx": 1, "label": "chto_inan"}
+{"sentence": "студенты обожали рассказ", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чиновник который обожал спектакли был молодым", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "рассказ который обожали офицеры был новым", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "студенты которых обожал офицер был молодым", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "спектакль который игнорировал секретарь был новым", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновники игнорировали секретаря", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "студент который игнорировал рассказы были молодыми", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "секретаря обожал студент", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "секретарей игнорировал студенты", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "чиновник которого обожал секретарь был молодым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновник которого игнорировали офицеры были молодыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "офицера обожал чиновники", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "секретарей игнорировал студент", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "чиновники которых игнорировал секретарь обедали", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "студенты которых игнорировали офицеры были молодыми", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновники которые игнорировали спектакль обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент который обожал офицеров был молодым", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "спектакль который обожал секретарь веселил", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "студент около секретарей были молодыми", "idx": 0, "label": "pp_anim"}
+{"sentence": "банкир знал что чиновник были молодыми", "idx": 0, "label": "chto_anim"}
+{"sentence": "рассказы которые обожали офицеры был новым", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "спектакли которые игнорировали офицеры веселил", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студент которого обожали офицеры обедали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "чиновник который обожал секретаря был молодым", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновник который игнорировал офицера был молодым", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "спектакль обожали студент", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "рассказ который обожали секретари были новыми", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновники которые игнорировали спектакли обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "спектакль от секретаря веселили", "idx": 0, "label": "pp_inan"}
+{"sentence": "спектакли от офицера был новым", "idx": 0, "label": "pp_inan"}
+{"sentence": "банкир знал что рассказы был новым", "idx": 0, "label": "chto_inan"}
+{"sentence": "рассказы обожал чиновник", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "чиновники которые игнорировали рассказы обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "банкиры знали что студент обедали", "idx": 0, "label": "chto_anim"}
+{"sentence": "рассказ был новым", "idx": 1, "label": "intr_inan"}
+{"sentence": "чиновник около секретарей были молодыми", "idx": 0, "label": "pp_anim"}
+{"sentence": "студент который игнорировал секретарей были молодыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновник обожали рассказ", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "студенты игнорировали секретаря", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "студент около офицера был молодым", "idx": 1, "label": "pp_anim"}
+{"sentence": "студенты игнорировал офицера", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "рассказ от офицеров были новыми", "idx": 0, "label": "pp_inan"}
+{"sentence": "чиновник который игнорировал офицеров обедали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновники которые обожали офицера обедали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "чиновники обожал офицеров", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "чиновники около офицера обедал", "idx": 0, "label": "pp_anim"}
+{"sentence": "механик знал что студенты обедали", "idx": 1, "label": "chto_anim"}
+{"sentence": "студент около секретаря был молодым", "idx": 1, "label": "pp_anim"}
+{"sentence": "чиновники был молодым", "idx": 0, "label": "intr_anim"}
+{"sentence": "студент обожал офицеров", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "студенты которые обожали офицеров был молодым", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "студенты которые обожали секретарей были молодыми", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "банкир знал что рассказ веселил", "idx": 1, "label": "chto_inan"}
+{"sentence": "рассказы от секретаря был новым", "idx": 0, "label": "pp_inan"}
+{"sentence": "студент игнорировали рассказ", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "рассказ который обожал секретарь были новыми", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "секретаря игнорировали чиновник", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "чиновники обожали спектакль", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чиновник игнорировал офицеров", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "студент который игнорировал спектакль обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник около секретарей обедал", "idx": 1, "label": "pp_anim"}
+{"sentence": "офицера обожал студент", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "рассказы которые обожал офицер веселил", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студенты около секретаря обедал", "idx": 0, "label": "pp_anim"}
+{"sentence": "секретаря обожали чиновник", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "спектакль который обожал секретарь веселили", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "спектакль веселил", "idx": 1, "label": "intr_inan"}
+{"sentence": "чиновники которые игнорировали офицеров обедали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "рассказы которые игнорировал офицер веселил", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновники около офицеров обедал", "idx": 0, "label": "pp_anim"}
+{"sentence": "чиновник около офицера обедал", "idx": 1, "label": "pp_anim"}
+{"sentence": "рассказы был новым", "idx": 0, "label": "intr_inan"}
+{"sentence": "студенты которые игнорировали спектакли обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент игнорировали секретаря", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "спектакль который игнорировал офицер был новым", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "рассказ игнорировал студенты", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "спектакль который обожали секретари веселил", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновники игнорировал спектакль", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "чиновники которые обожали спектакль обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "рассказы которые обожали офицеры веселили", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновник которого игнорировал офицер обедали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "студент которого игнорировал секретарь был молодым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "рассказы которые игнорировали секретари был новым", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студенты которые игнорировали спектакли был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студенты которых игнорировал секретарь были молодыми", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновник который игнорировал офицера обедали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "спектакли были новыми", "idx": 1, "label": "intr_inan"}
+{"sentence": "студенты были молодыми", "idx": 1, "label": "intr_anim"}
+{"sentence": "механик знал что чиновники были молодыми", "idx": 1, "label": "chto_anim"}
+{"sentence": "чиновники обожали рассказ", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чиновник около офицера был молодым", "idx": 1, "label": "pp_anim"}
+{"sentence": "студенты которые обожали спектакль был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент которого обожали секретари были молодыми", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "чиновник который обожал секретаря обедали", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "механик знал что студент был молодым", "idx": 1, "label": "chto_anim"}
+{"sentence": "студенты около секретарей обедал", "idx": 0, "label": "pp_anim"}
+{"sentence": "студенты которые игнорировали рассказы обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "механик знал что чиновник обедал", "idx": 1, "label": "chto_anim"}
+{"sentence": "спектакль который обожали офицеры веселил", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "чиновники около офицеров обедали", "idx": 1, "label": "pp_anim"}
+{"sentence": "чиновники обожали спектакли", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чиновники которые обожали спектакли обедал", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "чиновники около офицера был молодым", "idx": 0, "label": "pp_anim"}
+{"sentence": "студент который обожал спектакли обедал", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "студенты которых обожали секретари были молодыми", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "рассказ который игнорировал секретарь веселили", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "чиновник которого обожали секретари обедали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "механики знали что чиновники был молодым", "idx": 0, "label": "chto_anim"}
+{"sentence": "спектакль игнорировал студент", "idx": 1, "label": "tr_reverse_inan"}
+{"sentence": "студенты игнорировал рассказы", "idx": 0, "label": "tr_direct_inan"}
+{"sentence": "рассказы обожал чиновники", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "секретаря игнорировали студент", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "чиновник который игнорировал рассказы обедали", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "студент которого игнорировал офицер был молодым", "idx": 1, "label": "obj_rel_anim"}
+{"sentence": "чиновники которых игнорировали секретари обедал", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "механики знали что рассказ веселил", "idx": 1, "label": "chto_inan"}
+{"sentence": "чиновник около офицеров были молодыми", "idx": 0, "label": "pp_anim"}
+{"sentence": "чиновники около секретаря были молодыми", "idx": 1, "label": "pp_anim"}
+{"sentence": "механик знал что спектакль веселили", "idx": 0, "label": "chto_inan"}
+{"sentence": "студенты которые игнорировали офицера обедали", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "студент который игнорировал офицеров были молодыми", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "спектакли обожал студенты", "idx": 0, "label": "tr_reverse_inan"}
+{"sentence": "секретаря обожали студенты", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "студент обожал спектакль", "idx": 1, "label": "tr_direct_inan"}
+{"sentence": "чиновники около офицеров был молодым", "idx": 0, "label": "pp_anim"}
+{"sentence": "чиновник около офицеров обедал", "idx": 1, "label": "pp_anim"}
+{"sentence": "спектакли от секретарей веселил", "idx": 0, "label": "pp_inan"}
+{"sentence": "чиновники которые обожали секретарей обедал", "idx": 0, "label": "subj_rel_anim"}
+{"sentence": "чиновник который обожал офицера обедал", "idx": 1, "label": "subj_rel_anim"}
+{"sentence": "спектакли которые игнорировали офицеры были новыми", "idx": 1, "label": "obj_rel_inan"}
+{"sentence": "студент около секретарей был молодым", "idx": 1, "label": "pp_anim"}
+{"sentence": "студенты которые обожали рассказ обедали", "idx": 1, "label": "subj_rel_inan"}
+{"sentence": "чиновник обожал офицеров", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "спектакли от секретарей веселили", "idx": 1, "label": "pp_inan"}
+{"sentence": "чиновник игнорировал секретарей", "idx": 1, "label": "tr_direct_anim"}
+{"sentence": "студент которого обожал секретарь обедали", "idx": 0, "label": "obj_rel_anim"}
+{"sentence": "секретарей обожал чиновники", "idx": 0, "label": "tr_reverse_anim"}
+{"sentence": "секретаря игнорировал чиновник", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "чиновники которые игнорировали рассказ был молодым", "idx": 0, "label": "subj_rel_inan"}
+{"sentence": "рассказ который обожал офицер веселили", "idx": 0, "label": "obj_rel_inan"}
+{"sentence": "студент обожали секретарей", "idx": 0, "label": "tr_direct_anim"}
+{"sentence": "секретарей игнорировал чиновник", "idx": 1, "label": "tr_reverse_anim"}
+{"sentence": "спектакль от офицера веселил", "idx": 1, "label": "pp_inan"}
